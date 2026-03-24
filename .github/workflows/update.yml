@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --global user.name "energy-bot"
           git config --global user.email "bot@github.com"
-          git add energy-pricing.csv
+          git add energy-pricing-new.csv
           git diff --cached --quiet || git commit -m "Daily energy update"
           git pull --rebase
           git push
