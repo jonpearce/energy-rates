@@ -69,6 +69,9 @@ for r in RETAILERS:
         print(f"Retailer error: {r} {e}")
 
 print(f"Total rows collected: {len(rows)}")
+if plans:
+            print(f"Sample plan structure: {plans[0]}")
+        break
 df = pd.DataFrame(rows)
 if not df.empty:
     df.to_csv("energy-pricing.csv", index=False)
