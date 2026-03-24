@@ -38,8 +38,8 @@ for r in RETAILERS:
             try:
                 if plan.get("fuelType") != "ELECTRICITY":
                     continue
-                if "VIC" not in str(plan.get("geography", {})):
-                    continue
+ #               if "VIC" not in str(plan.get("geography", {})):
+ #                   continue
                 plan_id = plan.get("planId")
                 if not plan_id:
                     continue
