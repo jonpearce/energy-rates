@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-POSTCODE = "3936"  # change if needed
+POSTCODE = "3929"
 
 RETAILERS = [
     "agl", "origin", "energyaustralia", "redenergy",
@@ -17,7 +17,7 @@ headers_detail = {"x-v": "3"}
 rows = []
 
 def map_time_period(tp):
-    if tp is None:
+    if not tp:
         return "0-24"
 
     tp = tp.upper()
@@ -33,44 +33,64 @@ def map_time_period(tp):
 for r in RETAILERS:
     try:
         url = f"{BASE}/{r}/cds-au/v1/energy/plans?page-size=1000"
-        resp = requests.get(url, headers=headers_plans).json()
+        resp = requests.get(url, headers=headers_plans)
 
-        for plan in resp.get("data", {}).get("plans", []):
-            if plan.get("fuelType") != "ELECTRICITY":
-                continue
+        if resp.status_code != 200:
+            print(f"Failed plans for {r}")
+            continue
 
-            if "VIC" not in str(plan.get("geography", {})):
-                continue
+        data = resp.json()
 
-            plan_id = plan["planId"]
+        for plan in data.get("data", {}).get("plans", []):
+            try:
+                if plan.get("fuelType") != "ELECTRICITY":
+                    continue
 
-            detail_url = f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}"
-            detail = requests.get(detail_url, headers=headers_detail).json()
+                if "VIC" not in str(plan.get("geography", {})):
+                    continue
 
-            charges = detail.get("electricityCharges", {})
+                plan_id = plan.get("planId")
+                if not plan_id:
+                    continue
 
-            # ---- HEADER ROW (like your file)
-            rows.append({
-                "Heading": plan.get("displayName"),
-                "Import": "",
-                "Export": ""
-            })
+                detail_url = f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}"
+                detail_resp = requests.get(detail_url, headers=headers_detail)
 
-            tariffs = charges.get("tariffRates", [])
+                if detail_resp.status_code != 200:
+                    continue
 
-            if not tariffs:
-                continue
+                detail = detail_resp.json()
+                charges = detail.get("electricityCharges", {})
 
-            for t in tariffs:
+                # HEADER ROW
                 rows.append({
-                    "Heading": map_time_period(t.get("timePeriod")),
-                    "Import": t.get("rate"),
-                    "Export": t.get("feedInTariff", "")
+                    "Heading": plan.get("displayName", "Unknown"),
+                    "Import": "",
+                    "Export": ""
                 })
 
+                tariffs = charges.get("tariffRates", [])
+
+                if not tariffs:
+                    continue
+
+                for t in tariffs:
+                    rows.append({
+                        "Heading": map_time_period(t.get("timePeriod")),
+                        "Import": t.get("rate", ""),
+                        "Export": t.get("feedInTariff", "")
+                    })
+
+            except Exception as e:
+                print(f"Plan error: {e}")
+
     except Exception as e:
-        print(f"Error with {r}: {e}")
+        print(f"Retailer error: {r} {e}")
 
 df = pd.DataFrame(rows)
 
-df.to_csv("energy-pricing.csv", index=False)
+if not df.empty:
+    df.to_csv("energy-pricing.csv", index=False)
+    print(f"Saved {len(df)} rows")
+else:
+    print("No data collected")
