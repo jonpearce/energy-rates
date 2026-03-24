@@ -36,7 +36,7 @@ for r in RETAILERS:
         resp = requests.get(url, headers=headers_plans)
 
         if resp.status_code != 200:
-            print(f"Failed plans for {r}")
+            print(f"Failed plans for {r}: {resp.status_code} {resp.text[:200]}")
             continue
 
         data = resp.json()
