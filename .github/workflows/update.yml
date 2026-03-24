@@ -24,8 +24,3 @@ jobs:
           git add energy-pricing.csv
           git diff --cached --quiet || git commit -m "Daily energy update"
           git push --force
-```
-
-And then go to this URL and replace the contents with the latest Python diagnostic script:
-```
-https://github.com/jonpearce/energy-rates/edit/main/update_energy_csv.py
