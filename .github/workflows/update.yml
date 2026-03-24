@@ -1,29 +1,31 @@
-import requests
-import pandas as pd
+name: Update Energy Rates
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - run: pip install pandas requests
+      - name: Run script
+        run: |
+          python update_energy_csv.py || true
+      - name: Commit updated CSV
+        run: |
+          git config --global user.name "energy-bot"
+          git config --global user.email "bot@github.com"
+          git add energy-pricing.csv
+          git diff --cached --quiet || git commit -m "Daily energy update"
+          git push --force
+```
 
-RETAILERS = ["agl"]
-BASE = "https://cdr.energymadeeasy.gov.au"
-headers_plans = {"x-v": "1", "x-min-v": "1"}
-headers_detail = {"x-v": "3"}
-
-for r in RETAILERS:
-    try:
-        url = f"{BASE}/{r}/cds-au/v1/energy/plans?page-size=100&fuelType=ELECTRICITY"
-        print(f"Trying {r}: {url}")
-        resp = requests.get(url, headers=headers_plans, timeout=10)
-        print(f"Status: {resp.status_code}")
-        data = resp.json()
-        plans = data.get("data", {}).get("plans", [])
-        print(f"Plans found: {len(plans)}")
-        vic_plans = [p for p in plans if "3929" in str(p.get("geography", {}).get("includedPostcodes", []))]
-        print(f"VIC (3929) plans: {len(vic_plans)}")
-        if vic_plans:
-            plan_id = vic_plans[0].get("planId")
-            detail_url = f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}"
-            detail_resp = requests.get(detail_url, headers=headers_detail, timeout=10)
-            print(f"Detail: {detail_resp.text[:3000]}")
-    except Exception as e:
-        print(f"Error: {e}")
-
-pd.DataFrame(columns=["Heading","Import","Export"]).to_csv("energy-pricing.csv", index=False)
-print("Done")
+And then go to this URL and replace the contents with the latest Python diagnostic script:
+```
+https://github.com/jonpearce/energy-rates/edit/main/update_energy_csv.py
