@@ -1,0 +1,33 @@
+name: Update Energy Rates
+
+on:
+  schedule:
+    - cron: "0 16 * * *"   # runs daily (3am Melbourne)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install packages
+        run: pip install pandas requests
+
+      - name: Run script
+        run: python update_energy_csv.py
+
+      - name: Commit updated CSV
+        run: |
+          git config --global user.name "energy-bot"
+          git config --global user.email "bot@github.com"
+          git add energy-pricing.csv
+          git commit -m "Daily energy update" || echo "No changes"
+          git push
