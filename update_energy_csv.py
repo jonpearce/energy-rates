@@ -14,7 +14,7 @@ headers_plans = {"x-v": "1", "x-min-v": "1"}
 headers_detail = {"x-v": "3"}
 POSTCODE = "3929"
 NOW = datetime.now(timezone.utc)
-EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2", " cl "]
+EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2", "cl"]
 MAX_PLANS_PER_RETAILER = 1
 GST = 1.1
 
