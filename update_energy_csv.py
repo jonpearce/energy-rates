@@ -12,7 +12,7 @@ headers_plans = {"x-v": "1", "x-min-v": "1"}
 headers_detail = {"x-v": "3"}
 POSTCODE = "3929"
 NOW = datetime.now(timezone.utc)
-EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2","CL"]
+EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2"]
 MAX_PLANS_PER_RETAILER = 3
 
 def tou_to_periods(tou_windows):
