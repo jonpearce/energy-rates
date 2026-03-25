@@ -1,1 +1,1641 @@
-Heading,Import,Export
+Retailer,Plan,Type,Period,Rate (c/kWh),Export (c/kWh)
+AGL,Residential Smart Saver (Velocity) - New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver (Velocity) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity) - New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver (Velocity) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity) - New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Velocity) - New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Velocity) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity) - New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Velocity) - New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Velocity) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,Usage,Period,25.16,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,Usage,Period,25.16,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,Usage,Period,24.64,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,Usage,Period,24.64,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - New to AGL,Usage,Period,23.59,
+AGL,Residential Netflix Plan - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - New to AGL,Usage,Period,23.59,
+AGL,Residential Netflix Plan - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver - New to AGL,Usage,Period,23.59,
+AGL,AGL Residential Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver - New to AGL,Usage,Period,23.59,
+AGL,AGL Residential Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - New to AGL,Usage,Period,23.59,
+AGL,Residential Netflix Plan - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - New to AGL,Usage,Summer,18.8,
+AGL,Business Smart Saver - New to AGL,Usage,Non-Summer,18.8,
+AGL,Business Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - New to AGL,Usage,Period,23.07,
+AGL,Business Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,PEAK,Tariff 1,33.48,
+AGL,Residential Solar Savers - New to AGL,OFF_PEAK,Tariff 2,20.06,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,PEAK,Tariff 1,33.48,
+AGL,Residential Solar Savers - New to AGL,OFF_PEAK,Tariff 2,20.06,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - New to AGL,Usage,Period,23.07,
+AGL,Business Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,PEAK,Tariff 1,33.48,
+AGL,Residential Solar Savers - New to AGL,OFF_PEAK,Tariff 2,20.06,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,PEAK,Tariff 1,32.78,
+AGL,Residential Solar Savers - New to AGL,OFF_PEAK,Tariff 2,19.64,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers - New to AGL,PEAK,Tariff 1,32.78,
+AGL,Residential Solar Savers - New to AGL,OFF_PEAK,Tariff 2,19.64,
+AGL,Residential Solar Savers - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - New to AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan - New to AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - New to AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan - New to AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver - New to AGL,PEAK,Tariff 1,31.39,
+AGL,AGL Residential Smart Saver - New to AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,AGL Residential Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver - New to AGL,PEAK,Tariff 1,31.39,
+AGL,AGL Residential Smart Saver - New to AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,AGL Residential Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - New to AGL,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver - New to AGL,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - New to AGL,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver - New to AGL,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver - New to AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity),Usage,Period,23.59,
+AGL,Residential Smart Saver (Velocity),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity),Usage,Period,23.59,
+AGL,Residential Smart Saver (Velocity),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity),PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Velocity),OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Velocity),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Velocity),PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Velocity),OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Velocity),Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,Usage,Period,25.16,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,Usage,Period,25.16,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,PEAK,Tariff 1,33.48,
+AGL,Residential Solar Savers,OFF_PEAK,Tariff 2,20.06,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,PEAK,Tariff 1,33.48,
+AGL,Residential Solar Savers,OFF_PEAK,Tariff 2,20.06,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,Usage,Period,24.64,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,Usage,Period,24.64,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver - New To AGL,Usage,Period,22.02,
+AGL,Residential Seniors Saver - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver,Usage,Period,22.02,
+AGL,Residential Seniors Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver,Usage,Period,22.02,
+AGL,Residential Seniors Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver - New To AGL,Usage,Period,22.02,
+AGL,Residential Seniors Saver - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac) - New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver (Westpac) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel,Usage,Period,23.59,
+AGL,Residential Smart Saver - BP Fuel,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan,Usage,Period,23.59,
+AGL,Residential Netflix Plan,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan,Usage,Period,23.59,
+AGL,Residential Netflix Plan,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac) - New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver (Westpac) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel,Usage,Period,23.59,
+AGL,Residential Smart Saver - BP Fuel,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac),Usage,Period,23.59,
+AGL,Residential Smart Saver (Westpac),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac),Usage,Period,23.59,
+AGL,Residential Smart Saver (Westpac),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver - BP Fuel New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel New To AGL,Usage,Period,23.59,
+AGL,Residential Smart Saver - BP Fuel New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver,Usage,Period,23.59,
+AGL,AGL Residential Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver,Usage,Period,23.59,
+AGL,AGL Residential Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver,Usage,Period,23.07,
+AGL,Business Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver,Usage,Summer,18.8,
+AGL,Business Smart Saver,Usage,Non-Summer,18.8,
+AGL,Business Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver,Usage,Period,23.07,
+AGL,Business Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,PEAK,Tariff 1,32.78,
+AGL,Residential Solar Savers,OFF_PEAK,Tariff 2,19.64,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Solar Savers,PEAK,Tariff 1,32.78,
+AGL,Residential Solar Savers,OFF_PEAK,Tariff 2,19.64,
+AGL,Residential Solar Savers,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver,PEAK,Tariff 1,29.3,
+AGL,Residential Seniors Saver,OFF_PEAK,Tariff 2,17.55,
+AGL,Residential Seniors Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver - New To AGL,PEAK,Tariff 1,29.3,
+AGL,Residential Seniors Saver - New To AGL,OFF_PEAK,Tariff 2,17.55,
+AGL,Residential Seniors Saver - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver,PEAK,Tariff 1,29.3,
+AGL,Residential Seniors Saver,OFF_PEAK,Tariff 2,17.55,
+AGL,Residential Seniors Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Seniors Saver - New To AGL,PEAK,Tariff 1,29.3,
+AGL,Residential Seniors Saver - New To AGL,OFF_PEAK,Tariff 2,17.55,
+AGL,Residential Seniors Saver - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac) - New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Westpac) - New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Westpac) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac) - New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Westpac) - New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Westpac) - New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - BP Fuel,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - BP Fuel,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - BP Fuel,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - BP Fuel,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac),PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Westpac),OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Westpac),Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver (Westpac),PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver (Westpac),OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver (Westpac),Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver,PEAK,Tariff 1,31.39,
+AGL,AGL Residential Smart Saver,OFF_PEAK,Tariff 2,18.81,
+AGL,AGL Residential Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,AGL Residential Smart Saver,PEAK,Tariff 1,31.39,
+AGL,AGL Residential Smart Saver,OFF_PEAK,Tariff 2,18.81,
+AGL,AGL Residential Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - BP Fuel New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - BP Fuel New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - BP Fuel New To AGL,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - BP Fuel New To AGL,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - BP Fuel New To AGL,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - 3rd Party,Usage,Period,23.59,
+AGL,Residential Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - 3rd Party,Usage,Period,23.59,
+AGL,Residential Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - 3rd Party,Usage,Summer,18.8,
+AGL,Business Smart Saver - 3rd Party,Usage,Non-Summer,18.8,
+AGL,Business Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - 3rd Party,Usage,Period,23.07,
+AGL,Business Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - 3rd Party,Usage,Period,23.07,
+AGL,Business Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - 3rd Party,Usage,Period,23.59,
+AGL,Residential Netflix Plan - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - 3rd Party,Usage,Period,23.59,
+AGL,Residential Netflix Plan - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - 3rd Party,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - 3rd Party,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - 3rd Party,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver - 3rd Party,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Smart Saver - 3rd Party,PEAK,Tariff 1,31.39,
+AGL,Residential Smart Saver - 3rd Party,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Smart Saver - 3rd Party,PEAK,Tariff 1,28.96,
+AGL,Business Smart Saver - 3rd Party,OFF_PEAK,Tariff 2,16.76,
+AGL,Business Smart Saver - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - 3rd Party,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan - 3rd Party,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Residential Netflix Plan - 3rd Party,PEAK,Tariff 1,31.39,
+AGL,Residential Netflix Plan - 3rd Party,OFF_PEAK,Tariff 2,18.81,
+AGL,Residential Netflix Plan - 3rd Party,Feed-in,Current FIT policy,,0.0
+AGL,Business Standing Offer,Usage,Period,25.3545,
+AGL,Business Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Business Standing Offer,Usage,Summer,20.67,
+AGL,Business Standing Offer,Usage,Non-Summer,20.67,
+AGL,Business Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Business Standing Offer,Usage,Period,25.3545,
+AGL,Business Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Residential Standing Offer,Usage,Period,26.2182,
+AGL,Residential Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Residential Standing Offer,Usage,Period,26.2182,
+AGL,Residential Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Residential Standing Offer,PEAK,Tariff 1,34.8818,
+AGL,Residential Standing Offer,OFF_PEAK,Tariff 2,20.9,
+AGL,Residential Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Business Standing Offer,PEAK,Tariff 1,31.8273,
+AGL,Business Standing Offer,OFF_PEAK,Tariff 2,18.4273,
+AGL,Business Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Business Standing Offer,PEAK,Tariff 1,31.8273,
+AGL,Business Standing Offer,OFF_PEAK,Tariff 2,18.4273,
+AGL,Business Standing Offer,Feed-in,Current FIT policy,,0.0
+AGL,Residential Standing Offer,PEAK,Tariff 1,34.8818,
+AGL,Residential Standing Offer,OFF_PEAK,Tariff 2,20.9,
+AGL,Residential Standing Offer,Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - New and Moving Customers (Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Comparable (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Comparable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Comparable(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only  (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only  (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only  (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only  (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable ePlus - One Big Switch (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Comparable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand),Usage,Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand with Dedicated Circuit),Usage,Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand with Dedicated Circuit),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Comparable (Residential Demand with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - One Click Switch (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - One Click Switch (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - One Click Switch (Residential Demand),Usage,Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - One Click Switch (Residential Demand),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - One Click Switch (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Comparable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare Club (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Compare Club (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Residential Demand),Usage,Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Residential Demand),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - One Click Switch (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - One Click Switch (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Go Switch (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Go Switch (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare Club (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Compare Club (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare the Market (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Compare the Market (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Go Switch (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Go Switch (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - iSelect (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - iSelect (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare the Market (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Compare the Market (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Residential Connections (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Residential Connections (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Residential Connections (Residential Demand),Usage,Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Residential Connections (Residential Demand),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Affinity Variable - Residential Connections (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - iSelect (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - iSelect (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Residential Connections (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - Residential Connections (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Residential Connections (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - One Click Switch (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Compare Club (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Go Switch (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Compare the Market (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Comparable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - iSelect (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal (Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Energy Deal (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Energy Deal (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal(Single Rate),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Energy Deal(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Energy Deal(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal(Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Energy Deal(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Energy Deal (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Energy Deal (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Energy Deal (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Battery Starter (2 Period TOU),PEAK,Tariff 1,38.2,
+ORIGIN,Origin Battery Starter (2 Period TOU),OFF_PEAK,Tariff 2,22.136,
+ORIGIN,Origin Battery Maximiser (2 Period TOU),PEAK,Tariff 1,27.0,
+ORIGIN,Origin Battery Maximiser (2 Period TOU),OFF_PEAK,Tariff 2,17.0,
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Affinity Variable - My Connect (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - My Connect (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - My Connect (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Affinity Variable - My Connect (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Affinity Variable - My Connect (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Chameleon (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Chameleon (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Zembl (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Zembl (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage - Mindlabz (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,29.64,
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.12,
+ORIGIN,Origin Business Usage Advantage (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (2 Period TOU),PEAK,Tariff 1,28.33,
+ORIGIN,Origin Business Usage Advantage (2 Period TOU),OFF_PEAK,Tariff 2,16.4,
+ORIGIN,Origin Business Usage Advantage (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon(Single Rate),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Chameleon(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Chameleon(Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Chameleon(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Zembl(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz(Single Rate),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Mindlabz(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (Single Rate),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage - Mindlabz(Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage - Mindlabz(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Usage Advantage (Single Rate with Dedicated Circuit),Usage,Period,22.56,
+ORIGIN,Origin Business Usage Advantage (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate and Demand and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate and Demand and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate and Demand and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl (Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Zembl (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - Zembl (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable (Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable (Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Usage,Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Usage,Non- Summer Demand,37.77,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - One Click Switch (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - One Click Switch (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - One Click Switch(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Usage,Summer Demand,38.52,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,25.42,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Usage,Summer Demand,38.52,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Usage,Non- Summer Demand,25.42,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate and Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Go Switch (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Go Switch (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Go Switch(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Chameleon (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Chameleon (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Electricity Wizard (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Compare & Connect (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Compare & Connect (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Zembl (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Zembl (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable - Mindlabz (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable - Mindlabz (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (TOU 5 Day),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable (TOU 5 Day),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,30.3,
+ORIGIN,Origin Business Go Variable (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,14.44,
+ORIGIN,Origin Business Go Variable (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (2 Period TOU),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable (2 Period TOU),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Chameleon(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,28.96,
+ORIGIN,Origin Business Go Variable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,16.77,
+ORIGIN,Origin Business Go Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Electricity Wizard(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Compare & Connect(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Zembl(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable - Mindlabz(Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Variable (Single Rate with Dedicated Circuit),Usage,Period,23.07,
+ORIGIN,Origin Business Go Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (Single Rate),Usage,Period,25.69,
+ORIGIN,Origin Go Solar Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (Single Rate with Dedicated Circuit),Usage,Period,25.69,
+ORIGIN,Origin Go Solar Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (Single Rate),Usage,Period,25.35,
+ORIGIN,Origin Business Solar Boost (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (Single Rate with Dedicated Circuit),Usage,Period,25.35,
+ORIGIN,Origin Business Solar Boost (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable - (Single Rate with Dedicated Circuit),Usage,Period,25.1,
+ORIGIN,Origin Business Go Solar Variable - (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable - (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (Single Rate),Usage,Period,25.1,
+ORIGIN,Origin Business Go Solar Variable -  (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (Single Rate),Usage,Period,25.35,
+ORIGIN,Origin Business Basic (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate),Usage,Period,25.35,
+ORIGIN,Origin Standing (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (Single Rate with Dedicated Circuit),Usage,Period,25.35,
+ORIGIN,Origin Business Basic (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate with Demand),Usage,Summer Demand,41.51,
+ORIGIN,Origin Standing (Single Rate with Demand),Usage,Non- Summer Demand,41.51,
+ORIGIN,Origin Standing (Single Rate with Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Usage,Summer Demand,41.51,
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,41.51,
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate with Dedicated Circuit),Usage,Period,25.35,
+ORIGIN,Origin Standing (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Solar Partner Plus (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Solar Partner Plus (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Solar Boost (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Solar Boost (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Residential Demand),Usage,Summer Demand,20.97,
+ORIGIN,Origin Solar Boost (Residential Demand),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Solar Boost (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (Single Rate),Usage,Period,24.64,
+ORIGIN,Origin Everyday Rewards Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (Single Rate with Dedicated Circuit),Usage,Period,24.64,
+ORIGIN,Origin Everyday Rewards Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (Single Rate),Usage,Period,23.6,
+ORIGIN,Origin Go Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (Single Rate with Dedicated Circuit),Usage,Period,23.6,
+ORIGIN,Origin Go Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Essentials Variable (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (Residential Demand),Usage,Summer Demand,18.87,
+ORIGIN,Origin Go Variable (Residential Demand),Usage,Non- Summer Demand,18.87,
+ORIGIN,Origin Go Variable (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (Residential Demand),Usage,Summer Demand,20.97,
+ORIGIN,Origin Essentials Variable (Residential Demand),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Essentials Variable (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Essentials Variable (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Home Support (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (Residential Demand),Usage,Summer Demand,20.97,
+ORIGIN,Origin Home Support (Residential Demand),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Home Support (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Home Support (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Basic (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Basic (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate),Usage,Period,26.218,
+ORIGIN,Origin Standing (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Usage,Summer Demand,20.97,
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Standing (Single Rate with Demand and Controlled Load),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (Residential Demand),Usage,Summer Demand,20.97,
+ORIGIN,Origin Basic (Residential Demand),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Basic (Residential Demand),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Origin Standing (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing - Residential Demand (Single Rate),Usage,Summer Demand,20.97,
+ORIGIN,Origin Standing - Residential Demand (Single Rate),Usage,Non- Summer Demand,20.97,
+ORIGIN,Origin Standing - Residential Demand (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (2 Period TOU),PEAK,Tariff 1,34.18,
+ORIGIN,Origin Go Solar Variable (2 Period TOU),OFF_PEAK,Tariff 2,20.48,
+ORIGIN,Origin Go Solar Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.18,
+ORIGIN,Origin Go Solar Variable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.48,
+ORIGIN,Origin Go Solar Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Solar Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (TOU 5 Day),PEAK,Tariff 1,33.3,
+ORIGIN,Origin Business Solar Boost (TOU 5 Day),OFF_PEAK,Tariff 2,15.87,
+ORIGIN,Origin Business Solar Boost (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,33.3,
+ORIGIN,Origin Business Solar Boost (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,15.87,
+ORIGIN,Origin Business Solar Boost (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (2 Period TOU),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Business Solar Boost (2 Period TOU),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Business Solar Boost (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Business Solar Boost (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Business Solar Boost (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Solar Boost (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU),PEAK,Tariff 1,31.51,
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU),OFF_PEAK,Tariff 2,18.24,
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.51,
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.24,
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Go Solar Variable -  (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (2 Period TOU),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Standing (2 Period TOU),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Standing (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,33.3,
+ORIGIN,Origin Business Basic (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,15.87,
+ORIGIN,Origin Business Basic (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (TOU 5 Day),PEAK,Tariff 1,33.3,
+ORIGIN,Origin Business Basic (TOU 5 Day),OFF_PEAK,Tariff 2,15.87,
+ORIGIN,Origin Business Basic (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Business Basic (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Business Basic (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Business Basic (2 Period TOU),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Business Basic (2 Period TOU),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Business Basic (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.827,
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Solar Partner Plus (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Solar Partner Plus (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Solar Partner Plus (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Solar Partner Plus (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Partner Plus (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Solar Boost (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Solar Boost (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (TOU 5 Day),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Solar Boost (TOU 5 Day),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Solar Boost (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Solar Boost (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Solar Boost (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Solar Boost (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Solar Boost (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Solar Boost (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,32.38,
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,15.75,
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day),PEAK,Tariff 1,32.38,
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day),OFF_PEAK,Tariff 2,15.75,
+ORIGIN,Origin Everyday Rewards Variable (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,32.79,
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,19.65,
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (TOU 5 Day),PEAK,Tariff 1,31.01,
+ORIGIN,Origin Go Variable (TOU 5 Day),OFF_PEAK,Tariff 2,15.08,
+ORIGIN,Origin Go Variable (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU),PEAK,Tariff 1,32.79,
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU),OFF_PEAK,Tariff 2,19.65,
+ORIGIN,Origin Everyday Rewards Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (2 Period TOU),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Go Variable (2 Period TOU),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Go Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.39,
+ORIGIN,Origin Go Variable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.81,
+ORIGIN,Origin Go Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Go Variable (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,31.01,
+ORIGIN,Origin Go Variable (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,15.08,
+ORIGIN,Origin Go Variable (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Essentials Variable (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Essentials Variable (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Essentials Variable (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Essentials Variable (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (TOU 5 Day),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Essentials Variable (TOU 5 Day),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Essentials Variable (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (TOU 5 Day),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Home Support (TOU 5 Day),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Home Support (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Essentials Variable (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Essentials Variable (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Essentials Variable (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Home Support (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Home Support (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (TOU 5 Day),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Basic (TOU 5 Day),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Basic (TOU 5 Day),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (TOU 5 Day with Dedicated Circuit),PEAK,Tariff 1,34.45,
+ORIGIN,Origin Basic (TOU 5 Day with Dedicated Circuit),OFF_PEAK,Tariff 2,16.76,
+ORIGIN,Origin Basic (TOU 5 Day with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Standing (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Standing (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Home Support (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Home Support (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Standing (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Basic (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Basic (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Home Support (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Home Support (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Home Support (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Origin Basic (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Origin Basic (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Origin Basic (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (2 Period TOU),PEAK,Tariff 1,31.827,
+ORIGIN,Victorian Default Offer (2 Period TOU),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Victorian Default Offer (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,31.827,
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,18.427,
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (Single Rate with Dedicated Circuit),Usage,Period,25.35,
+ORIGIN,Victorian Default Offer (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (Single Rate),Usage,Period,25.35,
+ORIGIN,Victorian Default Offer (Single Rate),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (2 Period TOU),PEAK,Tariff 1,34.88,
+ORIGIN,Victorian Default Offer (2 Period TOU),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Victorian Default Offer (2 Period TOU),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),PEAK,Tariff 1,34.88,
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),OFF_PEAK,Tariff 2,20.9,
+ORIGIN,Victorian Default Offer (2 Period TOU with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (Single Rate with Dedicated Circuit),Usage,Period,26.218,
+ORIGIN,Victorian Default Offer (Single Rate with Dedicated Circuit),Feed-in,Current FIT policy,,0.0
+ORIGIN,Victorian Default Offer (Single Rate),Usage,Period,26.218,
+ORIGIN,Victorian Default Offer (Single Rate),Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,VIC Seniors Offer - Peak Only,Usage,Period,26.2181,
+ENERGYAUSTRALIA,VIC Seniors Offer - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,VIC Seniors Offer - Peak with Controlled Load,Usage,Period,26.2181,
+ENERGYAUSTRALIA,VIC Seniors Offer - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Rate Fix  - Peak with Controlled Load,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Rate Fix  - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Rate Fix  - Peak Only,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Rate Fix  - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Third Party Offer,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Third Party Offer,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak Only - Third Party Offer,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak Only - Third Party Offer,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Home 365 - Peak with Controlled Load,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Home 365 - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Home 365 - Peak Only,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Home 365 - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,VIC Seniors Offer - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Home 365 - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Home 365 - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Home 365 - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Home 365 - Time of Use,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Home 365 - Time of Use,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Home 365 - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use -Third Party Offer,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use -Third Party Offer,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use -Third Party Offer,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load -Third Party Offer,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load -Third Party Offer,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load -Third Party Offer,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Rate Fix - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Rate Fix - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Rate Fix - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Rate Fix - Time of Use,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Rate Fix - Time of Use,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Rate Fix - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer (Home)  - Peak with Controlled Load,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Standing Offer (Home)  - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer (Home)  - Peak Only,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Standing Offer (Home)  - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak Only - Residential Connections,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak Only - Residential Connections,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Residential Connections,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Residential Connections,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak Only - My Connect,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak Only - My Connect,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - My Connect,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - My Connect,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak Only - Connect Now,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak Only - Connect Now,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Connect Now,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Power 365 - Peak with Controlled Load - Connect Now,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use - Residential Connections,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use - Residential Connections,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use - Residential Connections,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Residential Connections,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Residential Connections,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Residential Connections,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use - My Connect,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use - My Connect,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use - My Connect,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - My Connect,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - My Connect,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - My Connect,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use - Connect Now,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use - Connect Now,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use - Connect Now,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Connect Now,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Connect Now,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Power 365 - Time of Use with Controlled Load - Connect Now,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Standing Offer (Home) - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business 365 - Peak Only with Demand,Usage,Summer,25.3545,
+ENERGYAUSTRALIA,Business 365 - Peak Only with Demand,Usage,Non-Summer,25.3545,
+ENERGYAUSTRALIA,Business 365 - Peak Only with Demand,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business 365 - Peak with Dedicated Circuit,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Business 365 - Peak with Dedicated Circuit,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business 365 - Peak Only,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Business 365 - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business 365 - 5 Day Time of Use,PEAK,Tariff 1,31.8272,
+ENERGYAUSTRALIA,Business 365 - 5 Day Time of Use,OFF_PEAK,Tariff 2,18.4272,
+ENERGYAUSTRALIA,Business 365 - 5 Day Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Peak with Controlled Load,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Solar Max - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Peak with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Peak Only,Usage,Period,26.2181,
+ENERGYAUSTRALIA,Solar Max - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Time of Use,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Solar Max - Time of Use,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Solar Max - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+ENERGYAUSTRALIA,Solar Max - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+ENERGYAUSTRALIA,Solar Max - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Solar Max - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business Rate Fix - Peak Only,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Business Rate Fix - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business Rate Fix - Peak with Dedicated Circuit,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Business Rate Fix - Peak with Dedicated Circuit,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business Rate Fix - Peak Only with Demand,Usage,Summer,25.3545,
+ENERGYAUSTRALIA,Business Rate Fix - Peak Only with Demand,Usage,Non-Summer,25.3545,
+ENERGYAUSTRALIA,Business Rate Fix - Peak Only with Demand,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer Business - Peak Only with Demand,Usage,Summer,25.3545,
+ENERGYAUSTRALIA,Standing Offer Business - Peak Only with Demand,Usage,Non-Summer,25.3545,
+ENERGYAUSTRALIA,Standing Offer Business - Peak Only with Demand,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer Business - Peak with Dedicated Circuit,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Standing Offer Business - Peak with Dedicated Circuit,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer Business - Peak Only,Usage,Period,25.3545,
+ENERGYAUSTRALIA,Standing Offer Business - Peak Only,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Business Rate Fix - 5 Day Time of Use,PEAK,Tariff 1,31.8272,
+ENERGYAUSTRALIA,Business Rate Fix - 5 Day Time of Use,OFF_PEAK,Tariff 2,18.4272,
+ENERGYAUSTRALIA,Business Rate Fix - 5 Day Time of Use,Feed-in,Current FIT policy,,0.0
+ENERGYAUSTRALIA,Standing Offer Business - 5 Day Time of Use,PEAK,Tariff 1,31.8272,
+ENERGYAUSTRALIA,Standing Offer Business - 5 Day Time of Use,OFF_PEAK,Tariff 2,18.4272,
+ENERGYAUSTRALIA,Standing Offer Business - 5 Day Time of Use,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,PEAK,Tariff 1,29.48,
+LUMO,Lumo Plus,OFF_PEAK,Tariff 2,17.77,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,PEAK,Tariff 1,29.48,
+LUMO,Lumo Plus,OFF_PEAK,Tariff 2,17.77,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Period,22.18,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Demand Summer,20.58,
+LUMO,Lumo Plus,Usage,Demand Non Summer,20.58,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Period,22.18,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,PEAK,Tariff 1,31.08,
+LUMO,Lumo Plus,OFF_PEAK,Tariff 2,17.72,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,PEAK,Tariff 1,34.881,
+LUMO,Victorian Default Offer,OFF_PEAK,Tariff 2,20.9,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,PEAK,Tariff 1,31.827,
+LUMO,Victorian Default Offer,OFF_PEAK,Tariff 2,18.427,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,PEAK,Tariff 1,34.881,
+LUMO,Victorian Default Offer,OFF_PEAK,Tariff 2,20.9,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,Usage,Period,25.354,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Demand Summer,23.8,
+LUMO,Lumo Plus,Usage,Demand Non Summer,23.8,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Period,24.68,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Lumo Plus,Usage,Period,24.68,
+LUMO,Lumo Plus,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,Usage,Period,25.354,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,Usage,Period,26.218,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+LUMO,Victorian Default Offer,Usage,Period,26.218,
+LUMO,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Two Period Time of Use,PEAK,Tariff 1,28.01,
+ALINTA,BusinessDeal Choice - Two Period Time of Use,OFF_PEAK,Tariff 2,16.22,
+ALINTA,BusinessDeal Choice - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Two Period Time of Use + CL,PEAK,Tariff 1,28.01,
+ALINTA,BusinessDeal Choice - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,16.22,
+ALINTA,BusinessDeal Choice - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Single Rate + CL,Usage,Period,22.31,
+ALINTA,BusinessDeal Choice - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium + CL,Usage,Summer,27.12,
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium + CL,Usage,Non Summer,27.12,
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Single Rate,Usage,Period,22.31,
+ALINTA,BusinessDeal Choice - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Demand Single Rate + CL,Usage,Summer,19.81,
+ALINTA,BusinessDeal Choice - Demand Single Rate + CL,Usage,Non Summer,19.81,
+ALINTA,BusinessDeal Choice - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium,Usage,Summer,27.12,
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium,Usage,Non Summer,27.12,
+ALINTA,BusinessDeal Choice - Demand Single Rate Medium,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Choice - Demand Single Rate,Usage,Summer,19.81,
+ALINTA,BusinessDeal Choice - Demand Single Rate,Usage,Non Summer,19.81,
+ALINTA,BusinessDeal Choice - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Demand Single Rate,Usage,Summer,19.53,
+ALINTA,HomeDeal Ready - Demand Single Rate,Usage,Non Summer,19.53,
+ALINTA,HomeDeal Ready - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Demand Single Rate + CL,Usage,Summer,19.53,
+ALINTA,HomeDeal Ready - Demand Single Rate + CL,Usage,Non Summer,19.53,
+ALINTA,HomeDeal Ready - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Single Rate + CL,Usage,Period,20.97,
+ALINTA,HomeDeal Ready - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Single Rate,Usage,Period,20.97,
+ALINTA,HomeDeal Ready - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Two Period Time of Use + CL,PEAK,Tariff 1,27.91,
+ALINTA,HomeDeal Ready - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,16.72,
+ALINTA,HomeDeal Ready - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Ready - Two Period Time of Use,PEAK,Tariff 1,27.91,
+ALINTA,HomeDeal Ready - Two Period Time of Use,OFF_PEAK,Tariff 2,16.72,
+ALINTA,HomeDeal Ready - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Two Period Time of Use + CL,PEAK,Tariff 1,28.6,
+ALINTA,HomeDeal Extra - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,17.14,
+ALINTA,HomeDeal Extra - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Two Period Time of Use,PEAK,Tariff 1,28.6,
+ALINTA,HomeDeal Extra - Two Period Time of Use,OFF_PEAK,Tariff 2,17.14,
+ALINTA,HomeDeal Extra - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Single Rate + CL,Usage,Period,21.5,
+ALINTA,HomeDeal Extra - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Single Rate,Usage,Period,21.5,
+ALINTA,HomeDeal Extra - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Demand Single Rate + CL,Usage,Summer,20.02,
+ALINTA,HomeDeal Extra - Demand Single Rate + CL,Usage,Non Summer,20.02,
+ALINTA,HomeDeal Extra - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,HomeDeal Extra - Demand Single Rate,Usage,Summer,20.02,
+ALINTA,HomeDeal Extra - Demand Single Rate,Usage,Non Summer,20.02,
+ALINTA,HomeDeal Extra - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Two Period Time of Use + CL,PEAK,Tariff 1,33.49,
+ALINTA,SolarBalance Max - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,20.06,
+ALINTA,SolarBalance Max - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Two Period Time of Use,PEAK,Tariff 1,33.49,
+ALINTA,SolarBalance Max - Two Period Time of Use,OFF_PEAK,Tariff 2,20.06,
+ALINTA,SolarBalance Max - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Demand Single Rate,Usage,Summer,23.43,
+ALINTA,SolarBalance Max - Demand Single Rate,Usage,Non Summer,23.43,
+ALINTA,SolarBalance Max - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Demand Single Rate + CL,Usage,Summer,23.43,
+ALINTA,SolarBalance Max - Demand Single Rate + CL,Usage,Non Summer,23.43,
+ALINTA,SolarBalance Max - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Single Rate,Usage,Period,25.17,
+ALINTA,SolarBalance Max - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,SolarBalance Max - Single Rate + CL,Usage,Period,25.17,
+ALINTA,SolarBalance Max - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Demand Single Rate + CL,Usage,Summer,20.71,
+ALINTA,BusinessDeal Go - Demand Single Rate + CL,Usage,Non Summer,20.71,
+ALINTA,BusinessDeal Go - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Demand Single Rate Medium,Usage,Summer,28.36,
+ALINTA,BusinessDeal Go - Demand Single Rate Medium,Usage,Non Summer,28.36,
+ALINTA,BusinessDeal Go - Demand Single Rate Medium,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Single Rate + CL,Usage,Period,23.33,
+ALINTA,BusinessDeal Go - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Demand Single Rate Medium + CL,Usage,Summer,28.36,
+ALINTA,BusinessDeal Go - Demand Single Rate Medium + CL,Usage,Non Summer,28.36,
+ALINTA,BusinessDeal Go - Demand Single Rate Medium + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Demand Single Rate,Usage,Summer,20.71,
+ALINTA,BusinessDeal Go - Demand Single Rate,Usage,Non Summer,20.71,
+ALINTA,BusinessDeal Go - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Single Rate,Usage,Period,23.33,
+ALINTA,BusinessDeal Go - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Two Period Time of Use,PEAK,Tariff 1,29.28,
+ALINTA,BusinessDeal Go - Two Period Time of Use,OFF_PEAK,Tariff 2,16.95,
+ALINTA,BusinessDeal Go - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,BusinessDeal Go - Two Period Time of Use + CL,PEAK,Tariff 1,29.28,
+ALINTA,BusinessDeal Go - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,16.95,
+ALINTA,BusinessDeal Go - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Demand Single Rate Medium + CL,Usage,Summer,30.82,
+ALINTA,Business Standing Offer - Demand Single Rate Medium + CL,Usage,Non Summer,30.82,
+ALINTA,Business Standing Offer - Demand Single Rate Medium + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Single Rate,Usage,Period,25.35,
+ALINTA,Business Standing Offer - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Single Rate + CL,Usage,Period,25.35,
+ALINTA,Business Standing Offer - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Demand Single Rate + CL,Usage,Summer,22.51,
+ALINTA,Business Standing Offer - Demand Single Rate + CL,Usage,Non Summer,22.51,
+ALINTA,Business Standing Offer - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Demand Single Rate Medium,Usage,Summer,30.82,
+ALINTA,Business Standing Offer - Demand Single Rate Medium,Usage,Non Summer,30.82,
+ALINTA,Business Standing Offer - Demand Single Rate Medium,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Demand Single Rate,Usage,Summer,22.51,
+ALINTA,Business Standing Offer - Demand Single Rate,Usage,Non Summer,22.51,
+ALINTA,Business Standing Offer - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Demand Single Rate + CL,Usage,Summer,24.41,
+ALINTA,Standing Offer - Demand Single Rate + CL,Usage,Non Summer,24.41,
+ALINTA,Standing Offer - Demand Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Single Rate + CL,Usage,Period,26.22,
+ALINTA,Standing Offer - Single Rate + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Single Rate,Usage,Period,26.22,
+ALINTA,Standing Offer - Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Demand Single Rate,Usage,Summer,24.41,
+ALINTA,Standing Offer - Demand Single Rate,Usage,Non Summer,24.41,
+ALINTA,Standing Offer - Demand Single Rate,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Two Period Time of Use + CL,PEAK,Tariff 1,31.83,
+ALINTA,Business Standing Offer - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,18.43,
+ALINTA,Business Standing Offer - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Business Standing Offer - Two Period Time of Use,PEAK,Tariff 1,31.83,
+ALINTA,Business Standing Offer - Two Period Time of Use,OFF_PEAK,Tariff 2,18.43,
+ALINTA,Business Standing Offer - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Two Period Time of Use + CL,PEAK,Tariff 1,34.88,
+ALINTA,Standing Offer - Two Period Time of Use + CL,OFF_PEAK,Tariff 2,20.9,
+ALINTA,Standing Offer - Two Period Time of Use + CL,Feed-in,Current FIT policy,,0.0
+ALINTA,Standing Offer - Two Period Time of Use,PEAK,Tariff 1,34.88,
+ALINTA,Standing Offer - Two Period Time of Use,OFF_PEAK,Tariff 2,20.9,
+ALINTA,Standing Offer - Two Period Time of Use,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,PEAK,Tariff 1,37.616,
+POWERSHOP,Switch Saver,SHOULDER,Tariff 2,21.1856,
+POWERSHOP,Switch Saver,OFF_PEAK,Tariff 3,21.1856,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,PEAK,Tariff 1,33.6025,
+POWERSHOP,Switch Saver,OFF_PEAK,Tariff 2,20.2931,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,PEAK,Tariff 1,33.6025,
+POWERSHOP,Switch Saver,OFF_PEAK,Tariff 2,20.2931,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,PEAK,Tariff 1,37.616,
+POWERSHOP,Switch Saver,SHOULDER,Tariff 2,21.1856,
+POWERSHOP,Switch Saver,OFF_PEAK,Tariff 3,21.1856,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,PEAK,Tariff 1,28.3727,
+POWERSHOP,Power House,OFF_PEAK,Tariff 2,15.9091,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,PEAK,Tariff 1,28.3727,
+POWERSHOP,Power House,OFF_PEAK,Tariff 2,15.9091,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,PEAK,Tariff 1,28.8477,
+POWERSHOP,Power House,SHOULDER,Tariff 2,16.9088,
+POWERSHOP,Power House,OFF_PEAK,Tariff 3,16.9088,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,PEAK,Tariff 1,28.8477,
+POWERSHOP,Power House,SHOULDER,Tariff 2,16.9088,
+POWERSHOP,Power House,OFF_PEAK,Tariff 3,16.9088,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,Usage,Period,25.3027,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Switch Saver,Usage,Period,25.3027,
+POWERSHOP,Switch Saver,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,Usage,Period,20.6536,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power House,Usage,Period,20.6536,
+POWERSHOP,Power House,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Business,Usage,Period,25.35,
+POWERSHOP,Power Business,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Business,Usage,Period,25.35,
+POWERSHOP,Power Business,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Business,PEAK,Tariff 1,31.825,
+POWERSHOP,Power Business,OFF_PEAK,Tariff 2,18.4265,
+POWERSHOP,Power Business,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Business,PEAK,Tariff 1,31.825,
+POWERSHOP,Power Business,OFF_PEAK,Tariff 2,18.4265,
+POWERSHOP,Power Business,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,31.7354,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 2,23.7842,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,31.7354,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 2,23.7842,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,PEAK,Tariff 1,31.827,
+POWERSHOP,Victorian Default Offer,OFF_PEAK,Tariff 2,18.427,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,PEAK,Tariff 1,31.827,
+POWERSHOP,Victorian Default Offer,OFF_PEAK,Tariff 2,18.427,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,37.616,
+POWERSHOP,Power Offset,SHOULDER,Tariff 2,21.1856,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 3,21.1856,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,37.616,
+POWERSHOP,Power Offset,SHOULDER,Tariff 2,21.1856,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 3,21.1856,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,33.6025,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 2,20.2931,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,PEAK,Tariff 1,33.6025,
+POWERSHOP,Power Offset,OFF_PEAK,Tariff 2,20.2931,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,PEAK,Tariff 1,34.881,
+POWERSHOP,Victorian Default Offer,OFF_PEAK,Tariff 2,20.9,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,PEAK,Tariff 1,34.881,
+POWERSHOP,Victorian Default Offer,OFF_PEAK,Tariff 2,20.9,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,Usage,Period,25.3027,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,Usage,Period,25.3027,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,Usage,Period,29.5131,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Power Offset,Usage,Period,29.5131,
+POWERSHOP,Power Offset,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,Usage,Period,26.218,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,Usage,Period,26.218,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,Usage,Period,25.354,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+POWERSHOP,Victorian Default Offer,Usage,Period,25.354,
+POWERSHOP,Victorian Default Offer,Feed-in,Current FIT policy,,0.0
+DODO,Real Deal - Time of Use with Controlled Load,PEAK,Tariff 1,34.1218,
+DODO,Real Deal - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.6067,
+DODO,Real Deal - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+DODO,Real Deal - Time of Use,PEAK,Tariff 1,34.1218,
+DODO,Real Deal - Time of Use,OFF_PEAK,Tariff 2,20.6067,
+DODO,Real Deal - Time of Use,Feed-in,Current FIT policy,,0.0
+DODO,Real Deal - Single Rate with Controlled Load,Usage,Period,25.6938,
+DODO,Real Deal - Single Rate with Controlled Load,Feed-in,Current FIT policy,,0.0
+DODO,Real Deal - Single Rate,Usage,Period,25.6938,
+DODO,Real Deal - Single Rate,Feed-in,Current FIT policy,,0.0
+DODO,Business Standing - Single Rate,Usage,Period,25.3545,
+DODO,Business Standing - Single Rate,Feed-in,Current FIT policy,,0.0
+DODO,Business Standing - Single Rate with Controlled Load,Usage,Period,25.3545,
+DODO,Business Standing - Single Rate with Controlled Load,Feed-in,Current FIT policy,,0.0
+DODO,Business Standing - Time of Use,PEAK,Tariff 1,31.8273,
+DODO,Business Standing - Time of Use,OFF_PEAK,Tariff 2,18.4273,
+DODO,Business Standing - Time of Use,Feed-in,Current FIT policy,,0.0
+DODO,Residential Standing - Time of Use with Controlled Load,PEAK,Tariff 1,34.8818,
+DODO,Residential Standing - Time of Use with Controlled Load,OFF_PEAK,Tariff 2,20.9,
+DODO,Residential Standing - Time of Use with Controlled Load,Feed-in,Current FIT policy,,0.0
+DODO,Residential Standing - Time of Use,PEAK,Tariff 1,34.8818,
+DODO,Residential Standing - Time of Use,OFF_PEAK,Tariff 2,20.9,
+DODO,Residential Standing - Time of Use,Feed-in,Current FIT policy,,0.0
+DODO,Residential Standing - Single Rate with Controlled Load,Usage,Period,26.2182,
+DODO,Residential Standing - Single Rate with Controlled Load,Feed-in,Current FIT policy,,0.0
+DODO,Residential Standing - Single Rate,Usage,Period,26.2182,
+DODO,Residential Standing - Single Rate,Feed-in,Current FIT policy,,0.0
+TANGO,Business Select,Usage,Period 1,19.5,
+TANGO,Business Select,Usage,Period 2,19.5,
+TANGO,Business Select,Feed-in,Current FIT policy,,0.0
+TANGO,Business Select,Usage,Peak,23.0759,
+TANGO,Business Select,Feed-in,Current FIT policy,,0.0
+TANGO,Business Select,Usage,Peak,23.0759,
+TANGO,Business Select,Feed-in,Current FIT policy,,0.0
+TANGO,Business Select,PEAK,Peak (excl. PH),28.55,
+TANGO,Business Select,OFF_PEAK,Off Peak,16.2,
+TANGO,Business Select,Feed-in,Current FIT policy,,0.0
+TANGO,Everyday Easy,Usage,Peak,24.38,
+TANGO,Everyday Easy,Feed-in,Current FIT policy,,0.0
+TANGO,Everyday Easy,Usage,Peak,24.38,
+TANGO,Everyday Easy,Feed-in,Current FIT policy,,0.0
+TANGO,Bonus Booster,Usage,Peak,25.8,
+TANGO,Bonus Booster,Feed-in,Current FIT policy,,0.0
+TANGO,Bonus Booster,Usage,Peak,25.8,
+TANGO,Bonus Booster,Feed-in,Current FIT policy,,0.0
+TANGO,Back to Basics,Usage,Peak,25.8,
+TANGO,Back to Basics,Feed-in,Current FIT policy,,0.0
+TANGO,Back to Basics,Usage,Peak,25.8,
+TANGO,Back to Basics,Feed-in,Current FIT policy,,0.0
+TANGO,Everyday Easy,PEAK,Peak,33.5,
+TANGO,Everyday Easy,OFF_PEAK,Off Peak,19.8,
+TANGO,Everyday Easy,Feed-in,Current FIT policy,,0.0
+TANGO,Bonus Booster,PEAK,Peak,34.38,
+TANGO,Bonus Booster,OFF_PEAK,Off Peak,20.4,
+TANGO,Bonus Booster,Feed-in,Current FIT policy,,0.0
+TANGO,Everyday Easy,PEAK,Peak,33.5,
+TANGO,Everyday Easy,OFF_PEAK,Off Peak,19.8,
+TANGO,Everyday Easy,Feed-in,Current FIT policy,,0.0
+TANGO,Back to Basics,PEAK,Peak,34.38,
+TANGO,Back to Basics,OFF_PEAK,Off Peak,20.4,
+TANGO,Back to Basics,Feed-in,Current FIT policy,,0.0
+TANGO,Back to Basics,PEAK,Peak,34.38,
+TANGO,Back to Basics,OFF_PEAK,Off Peak,20.4,
+TANGO,Back to Basics,Feed-in,Current FIT policy,,0.0
+TANGO,Bonus Booster,PEAK,Peak,34.38,
+TANGO,Bonus Booster,OFF_PEAK,Off Peak,20.4,
+TANGO,Bonus Booster,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate) United Energy,PEAK,Time of Use,25.8,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate) United Energy,PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate) United Energy,OFF_PEAK,Time of Use,0.0001,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate) United Energy,PEAK,Time of Use,25.8,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate) United Energy,PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate) United Energy,OFF_PEAK,Time of Use,0.0001,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate With CL) United Energy,PEAK,Flexible,32.9,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate With CL) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate With CL) United Energy,SHOULDER,Flexible,19.3,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate With CL) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate With CL) United Energy,PEAK,Flexible,32.9,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate With CL) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate With CL) United Energy,SHOULDER,Flexible,19.3,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate With CL) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate) United Energy,PEAK,Flexible,32.9,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate) United Energy,SHOULDER,Flexible,19.3,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Flexible Rate) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate) United Energy,PEAK,Flexible,32.9,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate) United Energy,SHOULDER,Flexible,19.3,
+GLOBIRD,GloBird  FOUR4FREE Residential (Flexible Rate) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate With CL) United Energy,PEAK,Time of Use,25.8,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate With CL) United Energy,PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate With CL) United Energy,OFF_PEAK,Time of Use,0.0001,
+GLOBIRD,GloBird  Combo FOUR4FREE Residential (Two Rate With CL) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate With CL) United Energy,PEAK,Time of Use,25.8,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate With CL) United Energy,PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate With CL) United Energy,OFF_PEAK,Time of Use,0.0001,
+GLOBIRD,GloBird  FOUR4FREE Residential (Two Rate With CL) United Energy,Feed-in,Current FIT policy,,0.0
+GLOBIRD,GloBird  GLOSAVE Residential (Two Rate With CL) United Energy,PEAK,Tariff 1,30.4,
+GLOBIRD,GloBird  GLOSAVE Residential (Two Rate With CL) United Energy,OFF_PEAK,Tariff 2,16.7,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Two Rate With CL) United Energy,PEAK,Tariff 1,30.4,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Two Rate With CL) United Energy,OFF_PEAK,Tariff 2,16.7,
+GLOBIRD,GloBird  GLOSAVE Residential (Two Rate) United Energy,PEAK,Tariff 1,30.4,
+GLOBIRD,GloBird  GLOSAVE Residential (Two Rate) United Energy,OFF_PEAK,Tariff 2,16.7,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Two Rate) United Energy,PEAK,Tariff 1,30.4,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Two Rate) United Energy,OFF_PEAK,Tariff 2,16.7,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,21.6,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,24.5,
+GLOBIRD,GloBird  GLOSAVE Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,21.6,
+GLOBIRD,GloBird  GLOSAVE Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,24.5,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,21.6,
+GLOBIRD,GloBird  Combo GLOSAVE Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,24.5,
+GLOBIRD,GloBird  GLOSAVE Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,21.6,
+GLOBIRD,GloBird  GLOSAVE Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,24.5,
+GLOBIRD,GloBird  BOOST Residential (Two Rate) United Energy,PEAK,Tariff 1,28.3,
+GLOBIRD,GloBird  BOOST Residential (Two Rate) United Energy,OFF_PEAK,Tariff 2,15.1,
+GLOBIRD,GloBird  BOOST Residential (Two Rate With CL) United Energy,PEAK,Tariff 1,28.3,
+GLOBIRD,GloBird  BOOST Residential (Two Rate With CL) United Energy,OFF_PEAK,Tariff 2,15.1,
+GLOBIRD,GloBird  BOOST Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,19.7,
+GLOBIRD,GloBird  BOOST Residential (Flat Rate With Controlled Load)-United Energy,Usage,Period,23.0,
+GLOBIRD,GloBird  BOOST Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,19.7,
+GLOBIRD,GloBird  BOOST Residential (Flat Rate Without Controlled Load)-United Energy,Usage,Period,23.0,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate With CL) United Energy,PEAK,Flexible,35.0,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate With CL) United Energy,SHOULDER,Flexible,24.5,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate With CL) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate) United Energy,PEAK,Flexible,35.0,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate) United Energy,SHOULDER,Flexible,24.5,
+GLOBIRD,GloBird  ZEROHERO Residential (Flexible Rate) United Energy,OFF_PEAK,Flexible,0.0001,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With Demand) United Energy,PEAK,Time of Use,23.5,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With Demand) United Energy,OFF_PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With Demand) United Energy,PEAK,Time of Use,23.5,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With Demand) United Energy,OFF_PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate 7 days) United Energy,PEAK,Time of Use,23.5,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate 7 days) United Energy,OFF_PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With CL 7 days) United Energy,PEAK,Time of Use,23.5,
+GLOBIRD,GloBird  NINETOFIVEBIZ Small Business (Two Rate With CL 7 days) United Energy,OFF_PEAK,Time of Use,28.0,
+GLOBIRD,GloBird  BIZSAVE Small Business (Two Rate With CL 5 days) United Energy,PEAK,Time of Use,34.0,
+GLOBIRD,GloBird  BIZSAVE Small Business (Two Rate With CL 5 days) United Energy,OFF_PEAK,Time of Use,18.7,
+GLOBIRD,GloBird  BIZSAVE Small Business (Two Rate 5 days) United Energy,PEAK,Time of Use,34.0,
+GLOBIRD,GloBird  BIZSAVE Small Business (Two Rate 5 days) United Energy,OFF_PEAK,Time of Use,18.7,
+GLOBIRD,GloBird  BIZSAVE Small Business (Flat Rate Without Controlled Load)-United Energy,Usage,Period,26.2,
+GLOBIRD,GloBird  BIZSAVE Small Business (Flat Rate Without Controlled Load)-United Energy,Usage,Period,27.5,
+GLOBIRD,GloBird  BIZSAVE Small Business (Flat Rate With Controlled Load)-United Energy,Usage,Period,26.2,
+GLOBIRD,GloBird  BIZSAVE Small Business (Flat Rate With Controlled Load)-United Energy,Usage,Period,27.5,
+GLOBIRD,GloBird  STANDING OFFER Residential (Two Rate With CL) United Energy,PEAK,Time of Use,34.8818,
+GLOBIRD,GloBird  STANDING OFFER Residential (Two Rate With CL) United Energy,OFF_PEAK,Time of Use,20.9,
+GLOBIRD,GloBird  STANDING OFFER Residential (Two Rate) United Energy,PEAK,Time of Use,34.8818,
+GLOBIRD,GloBird  STANDING OFFER Residential (Two Rate) United Energy,OFF_PEAK,Time of Use,20.9,
+GLOBIRD,GloBird  STANDING OFFER Residential (Flat Rate With Controlled Load)-United Energy,Usage,01/07/2025-30/06/2026,26.2182,
+GLOBIRD,GloBird  STANDING OFFER Residential (Flat Rate Without Controlled Load)-United Energy,Usage,01/07/2025-30/06/2026,26.2182,
+GLOBIRD,GloBird  STANDING OFFER Small Business (Flat Rate With Controlled Load)-United Energy,Usage,01/07/2025-30/06/2026,25.3545,
+GLOBIRD,GloBird  STANDING OFFER Small Business (Flat Rate Without Controlled Load)-United Energy,Usage,01/07/2025-30/06/2026,25.3545,
+GLOBIRD,GloBird STANDING OFFER Small Business (Two Rate With CL 5 days) United Energy,PEAK,Time of Use,31.8273,
+GLOBIRD,GloBird STANDING OFFER Small Business (Two Rate With CL 5 days) United Energy,OFF_PEAK,Time of Use,18.4273,
+GLOBIRD,GloBird STANDING OFFER Small Business (Two Rate 5 days) United Energy,PEAK,Time of Use,31.8273,
+GLOBIRD,GloBird STANDING OFFER Small Business (Two Rate 5 days) United Energy,OFF_PEAK,Time of Use,18.4273,
+MOMENTUM,Pure Business,Usage,Period,23.3,
+MOMENTUM,Pure Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Pure Business,Usage,Period,23.3,
+MOMENTUM,Pure Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,Usage,Summer Demand Charge,19.2,
+MOMENTUM,Warm Welcome,Usage,Non Summer Demand Charge,19.2,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,Usage,Period,22.1,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,Usage,Period,22.1,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,Usage,Summer Demand Charge,19.2,
+MOMENTUM,Home Run Electricity,Usage,Non Summer Demand Charge,19.2,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,Usage,Period,22.1,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,Usage,Period,22.1,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,Usage,Period,26.2,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,Usage,Summer Demand Charge,22.9,
+MOMENTUM,Bill Boss Electricity,Usage,Non Summer Demand Charge,22.9,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,Usage,Period,23.5,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,Usage,Period,26.2,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,Usage,Period,23.5,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Strictly Business,Usage,Period,25.4,
+MOMENTUM,Strictly Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Strictly Business,Usage,Period,25.4,
+MOMENTUM,Strictly Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,Usage,Period,26.2,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,Usage,Summer Demand Charge,22.9,
+MOMENTUM,Suit Yourself Electricity,Usage,Non Summer Demand Charge,22.9,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,Usage,Period,26.2,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,PEAK,Tariff 1,29.8,
+MOMENTUM,Warm Welcome,OFF_PEAK,Tariff 2,14.3,
+MOMENTUM,Warm Welcome,SHOULDER,Tariff 3,19.8,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,PEAK,Tariff 1,29.8,
+MOMENTUM,Home Run Electricity,OFF_PEAK,Tariff 2,14.3,
+MOMENTUM,Home Run Electricity,SHOULDER,Tariff 3,19.8,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,PEAK,Tariff 1,35.5,
+MOMENTUM,Bill Boss Electricity,OFF_PEAK,Tariff 2,17.0,
+MOMENTUM,Bill Boss Electricity,SHOULDER,Tariff 3,23.6,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Pure Business,PEAK,Tariff 1,29.2,
+MOMENTUM,Pure Business,OFF_PEAK,Tariff 2,16.9,
+MOMENTUM,Pure Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Pure Business,PEAK,Tariff 1,29.2,
+MOMENTUM,Pure Business,OFF_PEAK,Tariff 2,16.9,
+MOMENTUM,Pure Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,PEAK,Tariff 1,29.3,
+MOMENTUM,Warm Welcome,OFF_PEAK,Tariff 2,17.6,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Warm Welcome,PEAK,Tariff 1,29.3,
+MOMENTUM,Warm Welcome,OFF_PEAK,Tariff 2,17.6,
+MOMENTUM,Warm Welcome,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,PEAK,Tariff 1,29.3,
+MOMENTUM,Home Run Electricity,OFF_PEAK,Tariff 2,17.6,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,PEAK,Tariff 1,34.9,
+MOMENTUM,Bill Boss Electricity,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,PEAK,Tariff 1,29.5,
+MOMENTUM,Bill Boss Electricity,OFF_PEAK,Tariff 2,17.1,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Home Run Electricity,PEAK,Tariff 1,29.3,
+MOMENTUM,Home Run Electricity,OFF_PEAK,Tariff 2,17.6,
+MOMENTUM,Home Run Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,PEAK,Tariff 1,34.9,
+MOMENTUM,Bill Boss Electricity,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Bill Boss Electricity,PEAK,Tariff 1,29.5,
+MOMENTUM,Bill Boss Electricity,OFF_PEAK,Tariff 2,17.1,
+MOMENTUM,Bill Boss Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Strictly Business,PEAK,Tariff 1,31.8,
+MOMENTUM,Strictly Business,OFF_PEAK,Tariff 2,18.4,
+MOMENTUM,Strictly Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,PEAK,Tariff 1,35.5,
+MOMENTUM,Suit Yourself Electricity,OFF_PEAK,Tariff 2,17.0,
+MOMENTUM,Suit Yourself Electricity,SHOULDER,Tariff 3,23.6,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Strictly Business,PEAK,Tariff 1,31.8,
+MOMENTUM,Strictly Business,OFF_PEAK,Tariff 2,18.4,
+MOMENTUM,Strictly Business,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,PEAK,Tariff 1,34.9,
+MOMENTUM,Suit Yourself Electricity,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Suit Yourself Electricity,PEAK,Tariff 1,34.9,
+MOMENTUM,Suit Yourself Electricity,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Suit Yourself Electricity,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,Usage,Period,26.2181,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,Usage,Summer Demand Charge,22.8545,
+MOMENTUM,Standing Offer,Usage,Non Summer Demand Charge,22.8545,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,Usage,Period,26.2181,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,Usage,Period,25.3545,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,Usage,Period,25.3545,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,PEAK,Tariff 1,31.8272,
+MOMENTUM,Standing Offer,OFF_PEAK,Tariff 2,18.4272,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,PEAK,Tariff 1,34.8818,
+MOMENTUM,Standing Offer,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,PEAK,Tariff 1,31.8272,
+MOMENTUM,Standing Offer,OFF_PEAK,Tariff 2,18.4272,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,PEAK,Tariff 1,34.8818,
+MOMENTUM,Standing Offer,OFF_PEAK,Tariff 2,20.9,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
+MOMENTUM,Standing Offer,PEAK,Tariff 1,35.4727,
+MOMENTUM,Standing Offer,OFF_PEAK,Tariff 2,16.9727,
+MOMENTUM,Standing Offer,SHOULDER,Tariff 3,23.5727,
+MOMENTUM,Standing Offer,Feed-in,Current FIT policy,,0.0
