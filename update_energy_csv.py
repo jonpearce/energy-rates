@@ -12,8 +12,9 @@ headers_plans = {"x-v": "1", "x-min-v": "1"}
 headers_detail = {"x-v": "3"}
 POSTCODE = "3929"
 NOW = datetime.now(timezone.utc)
-EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2"]
+EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2", " cl "]
 MAX_PLANS_PER_RETAILER = 3
+GST = 1.1
 
 def tou_to_periods(tou_windows):
     periods = []
@@ -36,6 +37,12 @@ def merge_periods(periods):
         else:
             merged.append([start, end])
     return [(s, e) for s, e in merged]
+
+def has_overlapping_segments(segments):
+    for i in range(len(segments) - 1):
+        if segments[i][1] > segments[i+1][0]:
+            return True
+    return False
 
 retailer_plans = {}
 
@@ -73,28 +80,32 @@ for r in RETAILERS:
                     brand = detail.get("brandName", r.upper())
                     if any(kw in plan_name.lower() for kw in EXCLUDE_KEYWORDS):
                         continue
+                    # Must have feed-in tariff
                     fit_rate = 0.0
                     for fit in contract.get("solarFeedInTariff", []):
                         rates = fit.get("singleTariff", {}).get("rates", [])
                         if rates:
-                            fit_rate = round(float(rates[0].get("unitPrice", 0)) * 100, 2)
+                            fit_rate = round(float(rates[0].get("unitPrice", 0)) * 100 * GST, 2)
                             break
                     if fit_rate <= 0:
                         continue
                     for period in contract.get("tariffPeriod", []):
                         if period.get("rateBlockUType") != "timeOfUseRates":
                             continue
-                        daily = round(float(period.get("dailySupplyCharge", 0)) * 100, 2)
+                        daily = round(float(period.get("dailySupplyCharge", 0)) * 100 * GST, 2)
                         tou_rates = period.get("timeOfUseRates", [])
                         segments = []
                         peak_rate = float("inf")
                         for tou in tou_rates:
-                            rate = round(float(tou.get("rates", [{}])[0].get("unitPrice", 0)) * 100, 2)
+                            rate = round(float(tou.get("rates", [{}])[0].get("unitPrice", 0)) * 100 * GST, 2)
                             if tou.get("type") == "PEAK":
                                 peak_rate = min(peak_rate, rate)
                             for start, end in merge_periods(tou_to_periods(tou.get("timeOfUse", []))):
                                 segments.append((start, end, rate))
                         segments.sort()
+                        # Skip plans with overlapping time segments
+                        if has_overlapping_segments(segments):
+                            continue
                         if peak_rate == float("inf"):
                             peak_rate = max(s[2] for s in segments) if segments else 999
                         retailer_plans[r].append({
