@@ -9,19 +9,20 @@ headers_detail = {"x-v": "3"}
 for r in RETAILERS:
     try:
         url = f"{BASE}/{r}/cds-au/v1/energy/plans?page-size=100&fuelType=ELECTRICITY"
-        print(f"Trying {r}: {url}")
         resp = requests.get(url, headers=headers_plans, timeout=10)
-        print(f"Status: {resp.status_code}")
         data = resp.json()
         plans = data.get("data", {}).get("plans", [])
         print(f"Plans found: {len(plans)}")
-        vic_plans = [p for p in plans if "3929" in str(p.get("geography", {}).get("includedPostcodes", []))]
-        print(f"VIC (3929) plans: {len(vic_plans)}")
-        if vic_plans:
-            plan_id = vic_plans[0].get("planId")
-            detail_url = f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}"
-            detail_resp = requests.get(detail_url, headers=headers_detail, timeout=10)
-            print(f"Detail: {detail_resp.text[:3000]}")
+        if plans:
+            # Print geography of first plan to see structure
+            print(f"First plan geography: {plans[0].get('geography', {})}")
+            # Check what postcodes appear across all plans
+            all_postcodes = set()
+            for p in plans:
+                postcodes = p.get("geography", {}).get("includedPostcodes", [])
+                all_postcodes.update(postcodes)
+            vic_postcodes = [pc for pc in all_postcodes if pc.startswith("3")]
+            print(f"VIC postcodes found: {sorted(vic_postcodes)[:50]}")
     except Exception as e:
         print(f"Error: {e}")
 
