@@ -127,6 +127,7 @@ for r in RETAILERS:
             break
 
 rows = []
+all_selected = []
 for r, plans in retailer_plans.items():
     plans.sort(key=lambda x: x["peak_rate"])
     seen_patterns = set()
@@ -136,21 +137,25 @@ for r, plans in retailer_plans.items():
         if pattern in seen_patterns:
             continue
         seen_patterns.add(pattern)
-        rows.append({
-            "Heading": f"{plan['brand']} {plan['name']}",
-            "Import": plan["daily"] if plan["daily"] else "",
-            "Export": ""
-        })
-        for start, end, rate in plan["segments"]:
-            rows.append({
-                "Heading": f"{start}-{end}",
-                "Import": rate,
-                "Export": plan["fit"]
-            })
+        all_selected.append(plan)
         selected += 1
         if selected >= MAX_PLANS_PER_RETAILER:
             break
     print(f"{r}: {selected} plans selected from {len(plans)} qualifying")
+
+all_selected.sort(key=lambda x: (x["brand"].lower(), x["peak_rate"]))
+for plan in all_selected:
+    rows.append({
+        "Heading": f"{plan['brand']} {plan['name']}",
+        "Import": plan["daily"] if plan["daily"] else "",
+        "Export": ""
+    })
+    for start, end, rate in plan["segments"]:
+        rows.append({
+            "Heading": f"{start}-{end}",
+            "Import": rate,
+            "Export": plan["fit"]
+        })
 
 print(f"Total rows: {len(rows)}")
 df = pd.DataFrame(rows)
