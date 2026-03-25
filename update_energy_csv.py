@@ -14,7 +14,7 @@ for r in RETAILERS:
         print(f"Status: {resp.status_code}")
         data = resp.json()
         plans = data.get("data", {}).get("plans", [])
-        print(f"Plans found: {len(plans)}")
+        print(f"My Plans found: {len(plans)}")
         vic_plans = [p for p in plans if "3929" in str(p.get("geography", {}).get("includedPostcodes", []))]
         print(f"VIC (3929) plans: {len(vic_plans)}")
         if vic_plans:
