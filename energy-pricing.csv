@@ -1,87 +1,85 @@
 Heading,Import,Export
-AGL Business Smart Saver - New to AGL,113.42,
-0-24,16.76,1.5
-9-21,28.96,1.5
-AGL Residential Seniors Saver,88.94,
-0-15,17.55,1.0
-15-21,29.3,1.0
-21-24,17.55,1.0
-AGL Residential Smart Saver (Velocity) - New To AGL,95.3,
-0-15,18.81,1.5
-15-21,31.39,1.5
-21-24,18.81,1.5
-Origin Energy Origin Business Usage Advantage - Energy Deal (2 Period TOU),124.65,
-0-24,16.4,1.0
-9-21,28.33,1.0
-Origin Energy Origin Business Go Variable - New and Moving Customers (2 Period TOU),113.43,
-0-24,16.77,1.0
-9-21,28.96,1.0
-Origin Energy Origin Business Usage Advantage - Energy Deal (TOU 5 Day),127.56,
-0-24,14.12,1.0
-7-23,29.64,1.0
-EnergyAustralia Business 365 - 5 Day Time of Use,124.65,
-0-24,18.43,1.5
-9-21,31.83,1.5
-EnergyAustralia VIC Seniors Offer - Time of Use,105.89,
-0-15,20.9,1.5
-15-21,34.88,1.5
-21-24,20.9,1.5
-Lumo Energy Lumo Plus,88.95,
-0-15,17.77,1.0
-15-21,29.48,1.0
-21-24,17.77,1.0
-Lumo Energy Lumo Plus,114.61,
-0-24,17.72,1.0
-9-21,31.08,1.0
-Lumo Energy Victorian Default Offer,124.64,
-0-24,18.43,1.0
-9-21,31.83,1.0
-Alinta Energy HomeDeal Ready - Two Period Time of Use + CL,84.71,
-0-15,16.72,0.04
-15-21,27.91,0.04
-21-24,16.72,0.04
-Alinta Energy BusinessDeal Choice - Two Period Time of Use,109.69,
-0-9,16.22,0.04
-9-21,28.01,0.04
-21-24,16.22,0.04
-Alinta Energy HomeDeal Extra - Two Period Time of Use + CL,86.83,
-0-15,17.14,0.04
-15-21,28.6,0.04
-21-24,17.14,0.04
-Powershop Power House,83.77,
-0-15,15.91,0.5
-15-21,28.37,0.5
-21-24,15.91,0.5
-Powershop Power House,88.09,
-0-10,16.91,0.5
-10-15,16.91,0.5
-15-16,16.91,0.5
-16-21,28.85,0.5
-21-24,16.91,0.5
-Powershop Power Offset,123.54,
-0-24,23.78,0.5
-9-21,31.74,0.5
-Dodo Power & Gas Business Standing - Time of Use,124.65,
-0-24,18.43,0.04
-9-21,31.83,0.04
-Dodo Power & Gas Real Deal - Time of Use,92.62,
-0-15,20.61,0.04
-15-21,34.12,0.04
-21-24,20.61,0.04
-Dodo Power & Gas Residential Standing - Time of Use,105.89,
-0-15,20.9,0.04
-15-21,34.88,0.04
-21-24,20.9,0.04
-Tango Energy Business Select,110.0,
-0-24,16.2,0.04
-9-21,28.55,0.04
-Momentum Energy Pure Business,117.1,
-0-24,16.9,1.1
-9-21,29.2,1.1
-Momentum Energy Warm Welcome,99.5,
-0-15,17.6,1.1
-15-21,29.3,1.1
-21-24,17.6,1.1
-Momentum Energy Bill Boss Electricity,117.1,
-0-24,17.1,1.1
-9-21,29.5,1.1
+AGL Residential Seniors Saver,97.83,
+0-15,19.3,1.1
+15-21,32.23,1.1
+21-24,19.3,1.1
+AGL Residential Smart Saver (Velocity) - New To AGL,104.83,
+0-15,20.69,1.65
+15-21,34.53,1.65
+21-24,20.69,1.65
+AGL Residential Solar Savers - New to AGL,109.48,
+0-15,21.6,1.65
+15-21,36.06,1.65
+21-24,21.6,1.65
+Origin Energy Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),104.83,
+0-15,20.69,1.1
+15-21,34.53,1.1
+21-24,20.69,1.1
+Origin Energy Origin Everyday Rewards Variable (2 Period TOU),109.49,
+0-15,21.62,1.1
+15-21,36.07,1.1
+21-24,21.62,1.1
+Origin Energy Origin Go Solar Variable (2 Period TOU),114.15,
+0-15,22.53,4.4
+15-21,37.6,4.4
+21-24,22.53,4.4
+EnergyAustralia VIC Seniors Offer - Time of Use,116.48,
+0-15,22.99,1.65
+15-21,38.37,1.65
+21-24,22.99,1.65
+Lumo Energy Lumo Plus,97.84,
+0-15,19.55,1.1
+15-21,32.43,1.1
+21-24,19.55,1.1
+Lumo Energy Victorian Default Offer,116.48,
+0-15,22.99,1.1
+15-21,38.37,1.1
+21-24,22.99,1.1
+Alinta Energy HomeDeal Ready - Two Period Time of Use + CL,93.18,
+0-15,18.39,0.04
+15-21,30.7,0.04
+21-24,18.39,0.04
+Alinta Energy BusinessDeal Choice - Two Period Time of Use,120.66,
+0-9,17.84,0.04
+9-21,30.81,0.04
+21-24,17.84,0.04
+Alinta Energy HomeDeal Extra - Two Period Time of Use + CL,95.51,
+0-15,18.85,0.04
+15-21,31.46,0.04
+21-24,18.85,0.04
+Powershop Power House,92.15,
+0-15,17.5,0.55
+15-21,31.21,0.55
+21-24,17.5,0.55
+Powershop Power House,96.9,
+0-10,18.6,0.55
+10-15,18.6,0.55
+15-16,18.6,0.55
+16-21,31.73,0.55
+21-24,18.6,0.55
+Powershop Switch Saver,105.73,
+0-15,22.32,0.55
+15-21,36.96,0.55
+21-24,22.32,0.55
+Dodo Power & Gas Real Deal - Time of Use,101.88,
+0-15,22.67,0.04
+15-21,37.53,0.04
+21-24,22.67,0.04
+Dodo Power & Gas Residential Standing - Time of Use,116.48,
+0-15,22.99,0.04
+15-21,38.37,0.04
+21-24,22.99,0.04
+Momentum Energy Warm Welcome,109.45,
+0-15,19.36,1.21
+15-21,32.23,1.21
+21-24,19.36,1.21
+Momentum Energy Warm Welcome,109.45,
+0-10,21.78,1.21
+10-15,15.73,1.21
+15-16,21.78,1.21
+16-21,32.78,1.21
+21-24,21.78,1.21
+Momentum Energy Bill Boss Electricity,116.38,
+0-15,22.99,1.21
+15-21,38.39,1.21
+21-24,22.99,1.21
