@@ -91,4 +91,78 @@ for r in RETAILERS:
                             break
                     if fit_rate <= 0:
                         continue
-                    for peri
+                    for period in contract.get("tariffPeriod", []):
+                        if period.get("rateBlockUType") != "timeOfUseRates":
+                            continue
+                        daily = round(float(period.get("dailySupplyCharge", 0)) * 100 * GST, 2)
+                        tou_rates = period.get("timeOfUseRates", [])
+                        segments = []
+                        peak_rate = float("inf")
+                        for tou in tou_rates:
+                            rate = round(float(tou.get("rates", [{}])[0].get("unitPrice", 0)) * 100 * GST, 2)
+                            if tou.get("type") == "PEAK":
+                                peak_rate = min(peak_rate, rate)
+                            for start, end in merge_periods(tou_to_periods(tou.get("timeOfUse", []))):
+                                segments.append((start, end, rate))
+                        segments.sort()
+                        if has_overlapping_segments(segments):
+                            continue
+                        if peak_rate == float("inf"):
+                            peak_rate = max(s[2] for s in segments) if segments else 999
+                        retailer_plans[r].append({
+                            "brand": brand,
+                            "name": plan_name,
+                            "daily": daily,
+                            "fit": fit_rate,
+                            "segments": segments,
+                            "peak_rate": peak_rate
+                        })
+                except Exception as e:
+                    print(f"Plan error {r}: {e}")
+            total_pages = data.get("meta", {}).get("totalPages", 1)
+            if page >= total_pages:
+                break
+            page += 1
+        except Exception as e:
+            print(f"Page error {r} page {page}: {e}")
+            break
+
+rows = []
+all_selected = []
+for r, plans in retailer_plans.items():
+    plans.sort(key=lambda x: x["peak_rate"])
+    seen_patterns = set()
+    selected = 0
+    for plan in plans:
+        pattern = tuple((s[0], s[1], s[2]) for s in plan["segments"])
+        if pattern in seen_patterns:
+            continue
+        seen_patterns.add(pattern)
+        all_selected.append(plan)
+        selected += 1
+        if selected >= MAX_PLANS_PER_RETAILER:
+            break
+    print(f"{r}: {selected} plans selected from {len(plans)} qualifying")
+
+all_selected.sort(key=lambda x: (x["brand"].lower(), x["peak_rate"]))
+for plan in all_selected:
+    rows.append({
+        "Heading": f"{plan['brand']} {plan['name']}",
+        "Import": plan["daily"] if plan["daily"] else "",
+        "Export": ""
+    })
+    for start, end, rate in plan["segments"]:
+        rows.append({
+            "Heading": f"{start}-{end}",
+            "Import": rate,
+            "Export": plan["fit"]
+        })
+
+print(f"Total rows: {len(rows)}")
+df = pd.DataFrame(rows)
+if not df.empty:
+    df.to_csv("energy-pricing.csv", index=False)
+    print(f"Saved {len(df)} rows")
+else:
+    pd.DataFrame(columns=["Heading", "Import", "Export"]).to_csv("energy-pricing.csv", index=False)
+    print("No data found")
