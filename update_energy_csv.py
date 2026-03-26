@@ -127,7 +127,18 @@ for r in RETAILERS:
             print(f"Page error {r} page {page}: {e}")
             break
 
-rows = []
+rows = [
+    {"Heading": "VEN (selling only @ 6c)", "Import": 139.7, "Export": ""},
+    {"Heading": "0-24", "Import": 29.0, "Export": 6.4},
+    {"Heading": "VEN 23c (buy @ 23c & sell @ 6c then 29)", "Import": 140.0, "Export": ""},
+    {"Heading": "0-9", "Import": 29.0, "Export": 6.4},
+    {"Heading": "9-16", "Import": 23.4, "Export": 6.4},
+    {"Heading": "16-24", "Import": 29.0, "Export": 6.4},
+    {"Heading": "Vic Default Offer", "Import": 116.0, "Export": ""},
+    {"Heading": "0-24", "Import": 28.4, "Export": 0.0},
+    {"Heading": "Vic Default Offer ToU", "Import": 116.0, "Export": ""},
+    {"Heading": "0-24", "Import": 23.0, "Export": 0.0},
+]
 all_selected = []
 for r, plans in retailer_plans.items():
     plans.sort(key=lambda x: x["peak_rate"])
