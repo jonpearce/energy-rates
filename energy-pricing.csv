@@ -1,5 +1,15 @@
 Heading,Import,Export
-AGL Residential Seniors Saver,97.83,
+VEN (selling only @ 6c),139.7,
+0-24,29.0,6.4
+VEN 23c (buy @ 23c & sell @ 6c then 29),140.0,
+0-9,29.0,6.4
+9-16,23.4,6.4
+16-24,29.0,6.4
+Vic Default Offer,116.0,
+0-24,28.4,0.0
+Vic Default Offer ToU,116.0,
+0-24,23.0,0.0
+AGL Residential Seniors Saver - New To AGL,97.83,
 0-15,19.3,1.1
 15-21,32.23,1.1
 21-24,19.3,1.1
