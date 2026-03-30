@@ -143,7 +143,7 @@ rows = [
 {"Heading": "10-14", "Import": 29.0, "Export": 1.5},
 {"Heading": "14-16", "Import": 29.0, "Export": 2.8},
 {"Heading": "16-21", "Import": 29.0, "Export": 12},
-{“Heading": "21-24", "Import": 29.0, "Export": 2.8},
+{"Heading": "21-24", "Import": 29.0, "Export": 2.8},
 ]
 all_selected = []
 for r, plans in retailer_plans.items():
