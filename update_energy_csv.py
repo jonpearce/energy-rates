@@ -2,18 +2,17 @@ import requests
 import pandas as pd
 from datetime import datetime, timezone
 
-# Expanded list to include more Victorian-active retailers
 RETAILERS = [
     "agl", "origin", "energyaustralia", "energy-locals", "redenergy",
-    "lumo", "alinta", "powershop", "dodo", "tango", "globird", "sumo", 
-    "momentum", "ovo", "covau", "1stenergy", "diamond", "engie", 
-    "amber", "nectr", "simply", "arcline", "kogan"
+    "lumo", "alinta", "powershop", "dodo",
+    "tango", "globird", "sumo", "momentum",
+    "ovo", "covau", "1stenergy", "diamond",
+    "engie", "amber", "nectr", "simply"
 ]
-
 BASE = "https://cdr.energymadeeasy.gov.au"
 headers_plans = {"x-v": "1", "x-min-v": "1"}
 headers_detail = {"x-v": "3"}
-POSTCODE = "3929" # Flinders / Mornington Peninsula
+POSTCODE = "3929"
 NOW = datetime.now(timezone.utc)
 EXCLUDE_KEYWORDS = ["demand", "controlled load", "dedicated circuit", "cl1", "cl2", "cl"]
 MAX_PLANS_PER_RETAILER = 1
@@ -22,23 +21,23 @@ GST = 1.1
 def tou_to_periods(tou_windows):
     periods = []
     for w in tou_windows:
-        try:
-            start = int(w["startTime"].split(":")[0])
-            end = int(w["endTime"].split(":")[0])
-            if end == 0: end = 24
-            periods.append((start, end))
-        except: continue
+        start = int(w["startTime"].split(":")[0])
+        end = int(w["endTime"].split(":")[0])
+        if end == 0:
+            end = 24
+        periods.append((start, end))
     periods.sort()
     return periods
 
 def merge_periods(periods):
-    if not periods: return []
+    if not periods:
+        return []
     merged = [list(periods[0])]
     for start, end in periods[1:]:
         if start <= merged[-1][1]:
             merged[-1][1] = max(merged[-1][1], end)
         else:
-            merged.append([list((start, end))])
+            merged.append([start, end])
     return [(s, e) for s, e in merged]
 
 def has_overlapping_segments(segments):
@@ -55,127 +54,132 @@ for r in RETAILERS:
     while True:
         try:
             url = f"{BASE}/{r}/cds-au/v1/energy/plans?page-size=100&fuelType=ELECTRICITY&page={page}"
-            resp = requests.get(url, headers=headers_plans, timeout=15)
+            resp = requests.get(url, headers=headers_plans, timeout=10)
             if resp.status_code != 200:
-                print(f"DEBUG {r}: API Not Available (Status {resp.status_code})")
+                print(f"{r}: not available (status {resp.status_code})")
                 break
-            
             data = resp.json()
             plans = data.get("data", {}).get("plans", [])
-            if not plans: break
-
+            if not plans:
+                break
             for p in plans:
-                p_name = p.get("displayName", "Unnamed Plan")
-                
-                # Check Postcode
-                postcodes = str(p.get("geography", {}).get("includedPostcodes", []))
-                if POSTCODE not in postcodes:
-                    continue # Silent skip for postcodes to keep log clean
-
-                # Check Expiry
+                if POSTCODE not in str(p.get("geography", {}).get("includedPostcodes", [])):
+                    continue
                 effective_to = p.get("effectiveTo")
                 if effective_to:
                     expiry = datetime.fromisoformat(effective_to.replace("Z", "+00:00"))
                     if expiry < NOW:
-                        print(f"DEBUG {r}: Skipping {p_name} (Expired)")
                         continue
-
-                # Check Keywords
-                if any(kw in p_name.lower() for kw in EXCLUDE_KEYWORDS):
-                    print(f"DEBUG {r}: Skipping {p_name} (Excluded Keyword)")
+                if any(kw in p.get("displayName", "").lower() for kw in EXCLUDE_KEYWORDS):
                     continue
-
                 try:
                     plan_id = p.get("planId")
-                    detail_resp = requests.get(f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}", headers=headers_detail, timeout=15)
-                    if detail_resp.status_code != 200: continue
-                    
+                    detail_resp = requests.get(f"{BASE}/{r}/cds-au/v1/energy/plans/{plan_id}", headers=headers_detail, timeout=10)
+                    if detail_resp.status_code != 200:
+                        continue
                     detail = detail_resp.json().get("data", {})
                     contract = detail.get("electricityContract", {})
+                    plan_name = detail.get("displayName", "Unknown")
                     brand = detail.get("brandName", r.upper())
-                    
-                    # Feed-in Tariff (Now optional)
+                    if any(kw in plan_name.lower() for kw in EXCLUDE_KEYWORDS):
+                        continue
                     fit_rate = 0.0
                     for fit in contract.get("solarFeedInTariff", []):
                         rates = fit.get("singleTariff", {}).get("rates", [])
                         if rates:
                             fit_rate = round(float(rates[0].get("unitPrice", 0)) * 100 * GST, 2)
                             break
-                    
-                    # Process Tariffs
-                    found_valid_tariff = False
+                    if fit_rate <= 0:
+                        continue
                     for period in contract.get("tariffPeriod", []):
+                        if period.get("rateBlockUType") != "timeOfUseRates":
+                            continue
                         daily = round(float(period.get("dailySupplyCharge", 0)) * 100 * GST, 2)
+                        tou_rates = period.get("timeOfUseRates", [])
                         segments = []
-                        peak_rate = 0.0
-
-                        # CASE 1: Time of Use
-                        if period.get("rateBlockUType") == "timeOfUseRates":
-                            tou_rates = period.get("timeOfUseRates", [])
-                            peak_rate = float("inf")
-                            for tou in tou_rates:
-                                rate = round(float(tou.get("rates", [{}])[0].get("unitPrice", 0)) * 100 * GST, 2)
-                                if tou.get("type") == "PEAK":
-                                    peak_rate = min(peak_rate, rate)
-                                for start, end in tou_to_periods(tou.get("timeOfUse", [])):
-                                    segments.append((start, end, rate))
-                            
-                            segments.sort()
-                            if not has_overlapping_segments(segments) and segments:
-                                found_valid_tariff = True
-
-                        # CASE 2: Single Rate (Fallback)
-                        elif period.get("rateBlockUType") == "singleRate":
-                            rate = round(float(period.get("singleRate", {}).get("rates", [{}])[0].get("unitPrice", 0)) * 100 * GST, 2)
-                            segments = [(0, 24, rate)]
-                            peak_rate = rate
-                            found_valid_tariff = True
-
-                        if found_valid_tariff:
-                            retailer_plans[r].append({
-                                "brand": brand, "name": p_name, "daily": daily,
-                                "fit": fit_rate, "segments": segments, "peak_rate": peak_rate
-                            })
-                            break 
-                    
-                    if not found_valid_tariff:
-                        print(f"DEBUG {r}: Skipping {p_name} (No valid Rate blocks found)")
-
+                        peak_rate = float("inf")
+                        for tou in tou_rates:
+                            rate = round(float(tou.get("rates", [{}])[0].get("unitPrice", 0)) * 100 * GST, 2)
+                            if tou.get("type") == "PEAK":
+                                peak_rate = min(peak_rate, rate)
+                            for start, end in merge_periods(tou_to_periods(tou.get("timeOfUse", []))):
+                                segments.append((start, end, rate))
+                        segments.sort()
+                        if has_overlapping_segments(segments):
+                            continue
+                        if peak_rate == float("inf"):
+                            peak_rate = max(s[2] for s in segments) if segments else 999
+                        retailer_plans[r].append({
+                            "brand": brand,
+                            "name": plan_name,
+                            "daily": daily,
+                            "fit": fit_rate,
+                            "segments": segments,
+                            "peak_rate": peak_rate
+                        })
                 except Exception as e:
-                    print(f"DEBUG {r}: Error processing {p_name}: {e}")
-
+                    print(f"Plan error {r}: {e}")
             total_pages = data.get("meta", {}).get("totalPages", 1)
-            if page >= total_pages: break
+            if page >= total_pages:
+                break
             page += 1
         except Exception as e:
-            print(f"DEBUG {r}: Page Error: {e}")
+            print(f"Page error {r} page {page}: {e}")
             break
 
-# ... (Rest of your CSV saving logic remains the same)
 rows = [
-    {"Heading": "Manual Reference 1", "Import": 139.7, "Export": ""},
+{"Heading": "VEN (selling only @ 6c)", "Import": 139.7, "Export": ""},
+{"Heading": "0-24", "Import": 29.0, "Export": 6.4},
+{"Heading": "VEN 23c (buy @ 23c & sell @ 6c then 29)", "Import": 140.0, "Export": ""},
+{"Heading": "0-9", "Import": 29.0, "Export": 6.4},
+{"Heading": "9-16", "Import": 23.4, "Export": 6.4},
+{"Heading": "16-24", "Import": 29.0, "Export": 6.4},
+{"Heading": "Vic Default Offer", "Import": 116.0, "Export": ""},
+{"Heading": "0-24", "Import": 28.4, "Export": 0.0},
+{"Heading": "Vic Default Offer ToU", "Import": 116.0, "Export": ""},
+{"Heading": "0-24", "Import": 23.0, "Export": 0.0},
+{"Heading": "EnergyLocals", "Import": 68, "Export": ""},
+{"Heading": “0-10”, "Import": 29.0, "Export": 2.8},
+{"Heading": “10-14”, "Import": 29.0, "Export": 1.5},
+{"Heading": "14-16”, "Import": 29.0, "Export": 2.8},
+{"Heading": "16-21”, "Import": 29.0, "Export": 12},
+{“Heading": “21-24”, "Import": 29.0, "Export": 2.8},
 ]
-
 all_selected = []
 for r, plans in retailer_plans.items():
     plans.sort(key=lambda x: x["peak_rate"])
-    selected = 0
     seen_patterns = set()
+    selected = 0
     for plan in plans:
         pattern = tuple((s[0], s[1], s[2]) for s in plan["segments"])
-        if pattern in seen_patterns: continue
+        if pattern in seen_patterns:
+            continue
         seen_patterns.add(pattern)
         all_selected.append(plan)
         selected += 1
-        if selected >= MAX_PLANS_PER_RETAILER: break
-    print(f"RESULT: {r}: {selected} plans selected from {len(plans)} qualifying")
+        if selected >= MAX_PLANS_PER_RETAILER:
+            break
+    print(f"{r}: {selected} plans selected from {len(plans)} qualifying")
 
-# Build rows and Save
+all_selected.sort(key=lambda x: (x["brand"].lower(), x["peak_rate"]))
 for plan in all_selected:
-    rows.append({"Heading": f"{plan['brand']} {plan['name']}", "Import": plan['daily'], "Export": ""})
+    rows.append({
+        "Heading": f"{plan['brand']} {plan['name']}",
+        "Import": plan["daily"] if plan["daily"] else "",
+        "Export": ""
+    })
     for start, end, rate in plan["segments"]:
-        rows.append({"Heading": f"{start}-{end}", "Import": rate, "Export": plan["fit"]})
+        rows.append({
+            "Heading": f"{start}-{end}",
+            "Import": rate,
+            "Export": plan["fit"]
+        })
 
+print(f"Total rows: {len(rows)}")
 df = pd.DataFrame(rows)
-df.to_csv("energy-pricing.csv", index=False)
-print(f"Saved {len(df)} rows to energy-pricing.csv")
+if not df.empty:
+    df.to_csv("energy-pricing.csv", index=False)
+    print(f"Saved {len(df)} rows")
+else:
+    pd.DataFrame(columns=["Heading", "Import", "Export"]).to_csv("energy-pricing.csv", index=False)
+    print("No data found")
