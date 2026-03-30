@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, timezone
 
 RETAILERS = [
-    "agl", "origin", "energyaustralia", "energylocals", "redenergy",
+    "agl", "origin", "energyaustralia", "energy-locals", "redenergy",
     "lumo", "alinta", "powershop", "dodo",
     "tango", "globird", "sumo", "momentum",
     "ovo", "covau", "1stenergy", "diamond",
