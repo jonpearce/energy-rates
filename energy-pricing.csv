@@ -1,40 +1,65 @@
 Heading,Import,Export
-Manual Reference 1,139.7,
-AGL Business Smart Saver - 3rd Party New To AGL,124.77,
-0-24,20.68,1.65
-Origin Energy Origin Business Usage Advantage - Energy Deal(Single Rate),137.11,
-0-24,24.82,1.1
-EnergyAustralia Business 365 - Peak Only,137.11,
-0-24,27.89,1.65
-Energy Locals Local Member,68.0,
-0-24,23.5,0.0
+VEN (selling only @ 6c),139.7,
+0-24,29.0,6.4
+VEN 23c (buy @ 23c & sell @ 6c then 29),140.0,
+0-9,29.0,6.4
+9-16,23.4,6.4
+16-24,29.0,6.4
+Vic Default Offer,116.0,
+0-24,28.4,0.0
+Vic Default Offer ToU,116.0,
+0-24,23.0,0.0
+EnergyLocals,68.0,
+0-10,29.0,2.8
+10-14,29.0,1.5
+14-16,29.0,2.8
+16-21,29.0,12
+21-24,29.0,2.8
+AGL Residential Seniors Saver - New To AGL,97.83,
+0-15,19.3,1.1
+15-21,32.23,1.1
+21-24,19.3,1.1
+Alinta Energy HomeDeal Ready - Two Period Time of Use,93.18,
+0-15,18.39,0.04
+15-21,30.7,0.04
+21-24,18.39,0.04
+CovaU CovaU Basics Residential  TOU,116.48,
+0-15,22.99,5.39
+15-21,38.37,5.39
+21-24,22.99,5.39
+Diamond Energy Diamond Everyday - T72,110.0,
+0-15,22.62,3.3
+15-21,37.4,3.3
+21-24,22.62,3.3
+Dodo Power & Gas Real Deal - Time of Use,86.6,
+0-15,21.99,0.04
+15-21,36.41,0.04
+21-24,21.99,0.04
+EnergyAustralia VIC Seniors Offer - Time of Use,116.48,
+0-15,22.99,1.65
+15-21,38.37,1.65
+21-24,22.99,1.65
+ENGIE VIC ENGIE Standing elec,116.48,
+0-15,22.99,1.1
+15-21,38.37,1.1
+21-24,22.99,1.1
 Lumo Energy Lumo Plus,97.84,
-0-24,22.64,1.1
-Alinta Energy HomeDeal Ready - Single Rate,93.18,
-0-24,23.07,0.04
-Powershop Power House,90.75,
-0-24,22.72,0.55
-Dodo Power & Gas Real Deal - Single Rate,86.6,
-0-24,27.42,0.04
-Tango Energy Business Select,125.4,
-0-24,21.45,0.04
-GloBird Energy GloBird  NINETOFIVEBIZ Small Business (Two Rate 7 days) United Energy,128.7,
-0-9,30.8,0.0
-9-17,25.85,0.0
-17-24,30.8,0.0
+0-15,19.55,1.1
+15-21,32.43,1.1
+21-24,19.55,1.1
 Momentum Energy Warm Welcome,109.45,
-0-24,21.12,1.21
-CovaU CovaU Basics Business Single,137.12,
-0-24,27.89,5.39
-Diamond Energy Diamond Everyday,128.76,
-0-24,27.7,3.3
-ENGIE VIC ENGIE Business Standing elec,137.1,
-0-24,23.21,1.1
-Amber Electric Standing Offer: Fixed Rate Small Business,67.01,
-0-24,27.45,0.0
-Nectr Nectr Business Buzz - United Energy,110.97,
-0-24,25.14,1.1
-Arcline by RACV - Energy RACV Member Plan,108.32,
-0-24,21.0,1.65
-Kogan Energy Kogan Energy for current FIRST members,90.75,
-0-24,22.72,0.55
+0-15,19.36,1.21
+15-21,32.23,1.21
+21-24,19.36,1.21
+Nectr Nectr Home Buzz Time of Use - United Energy,116.48,
+0-15,22.99,1.1
+15-21,38.37,1.1
+21-24,22.99,1.1
+Origin Energy Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),104.83,
+0-15,20.69,1.1
+15-21,34.53,1.1
+21-24,20.69,1.1
+Powershop Power House,92.15,
+0-15,17.5,0.55
+15-21,31.21,0.55
+21-24,17.5,0.55
