@@ -55,7 +55,7 @@ Nectr Nectr Home Buzz Time of Use - United Energy,116.48,
 0-15,22.99,1.1
 15-21,38.37,1.1
 21-24,22.99,1.1
-Origin Energy Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only (2 Period TOU),104.83,
+Origin Energy Origin Go Variable - New and Moving Customers Only (2 Period TOU),104.83,
 0-15,20.69,1.1
 15-21,34.53,1.1
 21-24,20.69,1.1
@@ -63,3 +63,7 @@ Powershop Power House,92.15,
 0-15,17.5,0.55
 15-21,31.21,0.55
 21-24,17.5,0.55
+Tango Energy Everyday Easy,64.13,
+0-15,19.69,0.04
+15-21,34.1,0.04
+21-24,19.69,0.04
