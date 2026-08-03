@@ -29,6 +29,11 @@ CovaU Super Saver Residential TOU,107.21,
 11-16,21.0,1.1
 16-21,35.82,1.1
 21-24,21.0,1.1
+Diamond Energy Diamond Everyday - Time of Use,112.54,
+0-11,22.05,1.32
+11-16,16.76,1.32
+16-21,40.29,1.32
+21-24,22.05,1.32
 Dodo Power & Gas Residential Standing - Time of Use,119.12,
 0-11,22.14,0.04
 11-16,17.26,0.04
@@ -59,7 +64,7 @@ Nectr Nectr GreenPower Time of Use - United Energy,119.12,
 11-16,17.26,1.1
 16-21,40.32,1.1
 21-24,22.14,1.1
-Origin Energy Origin Affinity Variable ePlus - One Big Switch - New and Moving Customers Only - July'26 (Time of Use),110.78,
+Origin Energy Origin Go Variable - New and Moving Customers Only July'26 (Time of Use),110.78,
 0-11,20.59,1.1
 11-16,16.05,1.1
 16-21,37.5,1.1
