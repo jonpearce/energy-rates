@@ -1,10 +1,10 @@
 Heading,Import,Export
-VEN (selling only @ 6c),139.7,
-0-24,29.0,6.4
-VEN 23c (buy @ 23c & sell @ 6c then 29),140.0,
-0-9,29.0,6.4
-9-16,23.4,6.4
-16-24,29.0,6.4
+VEN (selling only @ 6c),88.4,
+0-24,25.542,6.4
+VEN 23c (buy @ 19c & sell @ 6c then 25.5),88.4,
+0-9,25.542,6.4
+9-16,19.5,6.4
+16-24,25.542,6.4
 Vic Default Offer,116.0,
 0-24,28.4,0.0
 Vic Default Offer ToU,116.0,
